@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-02T21:18:33.706Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 OPR/68.0.3618.173" etag="uCLZ0d_TRuU88yYk9bS2" version="13.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-02T21:21:18.185Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 OPR/68.0.3618.173" etag="vz7FLS5fE_SE5e7sRXHX" version="13.3.6" type="github">
   <diagram id="J5e3y4qdrGvnrDDyIe8X" name="Page-1">
     <mxGraphModel dx="1289" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -283,11 +283,11 @@
         <mxCell id="mwCjlhxlmn_N58qDiOF_-118" value="RS" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="2415" y="890" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mwCjlhxlmn_N58qDiOF_-119" value="5 días" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="2390" y="973" width="40" height="20" as="geometry" />
+        <mxCell id="mwCjlhxlmn_N58qDiOF_-119" value="10 días (o más dependiendo de la complejidad de la Incidencia" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="2305" y="973" width="220" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mwCjlhxlmn_N58qDiOF_-120" value="Si existen &lt;br&gt;incidencias" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2270" y="960" width="120" height="80" as="geometry" />
+          <mxGeometry x="2210" y="773" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mwCjlhxlmn_N58qDiOF_-121" value="AV" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="2735" y="231" width="30" height="60" as="geometry" />
@@ -319,7 +319,7 @@
         <mxCell id="mwCjlhxlmn_N58qDiOF_-130" value="&lt;b&gt;TIEMPO TOTAL SIN INCIDENTES: 22 DÍAS&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="3590" y="396.75" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mwCjlhxlmn_N58qDiOF_-131" value="&lt;b&gt;TIEMPO TOTAL CON INCIDENTES: 27 DÍAS&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="mwCjlhxlmn_N58qDiOF_-131" value="&lt;b&gt;TIEMPO TOTAL CON INCIDENTES: 32 DÍAS&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="3590" y="443.25" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F3_B2le_MU3sF0glqUaS-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="F3_B2le_MU3sF0glqUaS-1" target="mwCjlhxlmn_N58qDiOF_-41" edge="1">

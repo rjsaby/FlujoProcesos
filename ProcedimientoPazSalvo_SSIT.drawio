@@ -1,1 +1,222 @@
-<mxfile host="app.diagrams.net" modified="2020-07-10T16:04:06.508Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 OPR/68.0.3618.173" etag="HZTcoBPKP0tQgTr7b2rq" version="13.3.7" type="github"><diagram id="EWO0N7kChD3yhIQkibt1" name="Page-1">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</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-07-10T16:06:12.324Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 OPR/68.0.3618.173" etag="9vCSk4GiveU8tfWDDu9z" version="13.3.7" type="github">
+  <diagram id="EWO0N7kChD3yhIQkibt1" name="Page-1">
+    <mxGraphModel dx="1289" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-iUiOwt4sMBN9Z4fG8X7-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="-iUiOwt4sMBN9Z4fG8X7-1" target="-iUiOwt4sMBN9Z4fG8X7-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-iUiOwt4sMBN9Z4fG8X7-1" value="INICIO" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="545" y="44" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-iUiOwt4sMBN9Z4fG8X7-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="-iUiOwt4sMBN9Z4fG8X7-2" target="-iUiOwt4sMBN9Z4fG8X7-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-iUiOwt4sMBN9Z4fG8X7-2" value="El contratista\funcionario inicia el proceso de generación del PAZ y SALVO" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="505" y="154" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-iUiOwt4sMBN9Z4fG8X7-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-iUiOwt4sMBN9Z4fG8X7-3" target="-iUiOwt4sMBN9Z4fG8X7-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-iUiOwt4sMBN9Z4fG8X7-3" value="El contratista\funcionario solicita, mediante correo electrónico, dirigido a: &lt;b&gt;&lt;i&gt;(soporte.aplicaciones@agenciadetierras.gov.co), &lt;/i&gt;&lt;/b&gt;&lt;br&gt;el VoBo que corresponde a la Subdirección de Sistemas de Información de Tierras (SSIT)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="422.5" y="284" width="305" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="-iUiOwt4sMBN9Z4fG8X7-4" value="&lt;h1&gt;VoBo SSIT&lt;/h1&gt;&lt;p&gt;El Visto Bueno de la SSIT se genera una vez:&lt;/p&gt;&lt;p&gt;a. Se corrobora que el contratista\funcionario no cuente con un usuario activo dentro del Sistema Integrado de Tierras y/o dentro de alguna aplicación misional operada por la SSIT.&lt;/p&gt;&lt;p&gt;b. Se corrobora que el contratista\funcionario no tenga licenciamiento ARCGIS activo&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="180" y="209" width="190" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="-iUiOwt4sMBN9Z4fG8X7-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="-iUiOwt4sMBN9Z4fG8X7-11" target="-iUiOwt4sMBN9Z4fG8X7-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-iUiOwt4sMBN9Z4fG8X7-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="-iUiOwt4sMBN9Z4fG8X7-11" target="-iUiOwt4sMBN9Z4fG8X7-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-iUiOwt4sMBN9Z4fG8X7-11" value="La solicitud es recibida por el profesional encargado de gestionar los Paz y Salvos dentro de la SSIT, quien:" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="444" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-iUiOwt4sMBN9Z4fG8X7-13" value="" style="endArrow=none;dashed=1;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="-iUiOwt4sMBN9Z4fG8X7-4" target="-iUiOwt4sMBN9Z4fG8X7-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="544" as="sourcePoint" />
+            <mxPoint x="340" y="494" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-iUiOwt4sMBN9Z4fG8X7-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="-iUiOwt4sMBN9Z4fG8X7-16" target="-iUiOwt4sMBN9Z4fG8X7-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-iUiOwt4sMBN9Z4fG8X7-16" value="Verifica la existencia de usuarios creados dentro de las aplicaciones gestionadas por parte de la SSIT" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="554" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-iUiOwt4sMBN9Z4fG8X7-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-iUiOwt4sMBN9Z4fG8X7-17" target="-iUiOwt4sMBN9Z4fG8X7-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-iUiOwt4sMBN9Z4fG8X7-17" value="Verifica que el contratista\funcionario tenga una licencia activa de ARCGIS" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="670" y="554" width="245" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xSABTvXdTQhV1PIQ-neN-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="-iUiOwt4sMBN9Z4fG8X7-20" target="xSABTvXdTQhV1PIQ-neN-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xSABTvXdTQhV1PIQ-neN-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="-iUiOwt4sMBN9Z4fG8X7-20" target="xSABTvXdTQhV1PIQ-neN-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-iUiOwt4sMBN9Z4fG8X7-20" value="¿Tiene&lt;br&gt;licenciamiento &lt;br&gt;ARCGIS Activo?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="731.25" y="654" width="122.5" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="-iUiOwt4sMBN9Z4fG8X7-21" value="&lt;h1&gt;Inventario Licencias&lt;/h1&gt;&lt;p&gt;La verificación inicial la puede realizar de dos formas:&amp;nbsp;&lt;/p&gt;&lt;p&gt;a. Si cuenta con el acceso a la página web que administra las licencias (&lt;b&gt;myesri.com&lt;/b&gt;), revisa directamente desde el entorno de licenciamiento.&lt;/p&gt;&lt;p&gt;b. Si no cuenta con el acceso a la plataforma web de administración, revisando el inventario de licencias (archivo MS EXCEL) que es descargado directamente de la página de ESRI de adminsitración (&lt;b&gt;myesri.com&lt;/b&gt;)&lt;/p&gt;&lt;p&gt;Coteja teniendo en cuenta los siguientes datos:&lt;/p&gt;&lt;p&gt;a. Nombre del Profesional&lt;/p&gt;&lt;p&gt;b. Apellido del Profesional&lt;/p&gt;&lt;p&gt;c. Correo Electrónico&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="780" y="134" width="290" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="-iUiOwt4sMBN9Z4fG8X7-25" value="" style="endArrow=none;dashed=1;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="-iUiOwt4sMBN9Z4fG8X7-17" target="-iUiOwt4sMBN9Z4fG8X7-21" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1000" y="594" as="sourcePoint" />
+            <mxPoint x="1050" y="544" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xSABTvXdTQhV1PIQ-neN-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="-iUiOwt4sMBN9Z4fG8X7-28" target="xSABTvXdTQhV1PIQ-neN-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NY9rAwSGXeNjgm4_Cz0t-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="-iUiOwt4sMBN9Z4fG8X7-28" target="NY9rAwSGXeNjgm4_Cz0t-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-iUiOwt4sMBN9Z4fG8X7-28" value="¿Tiene usuario creado dentro de alguna aplicación SSIT?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="290" y="659" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="xSABTvXdTQhV1PIQ-neN-1" value="Por medio del correo electrónico&lt;br&gt;&lt;b&gt;soporte.aplicaciones@agenciadetierras.gov.co&lt;/b&gt;&lt;br&gt;se le responde al funcionario\contratista con el VoBo de la SSIT en un formato (versión 2019) previamente establecido.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="432.5" y="770" width="285" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="xSABTvXdTQhV1PIQ-neN-6" value="NO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="401" y="700" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xSABTvXdTQhV1PIQ-neN-7" value="NO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="703.25" y="698" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xSABTvXdTQhV1PIQ-neN-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="xSABTvXdTQhV1PIQ-neN-9" target="xSABTvXdTQhV1PIQ-neN-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xSABTvXdTQhV1PIQ-neN-9" value="Se le envía un correo electrónico al funcionario solicitando desautorizar la licencia según el instructivo definido por la SSIT" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="674.13" y="920" width="236.75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xSABTvXdTQhV1PIQ-neN-10" value="&lt;h1&gt;Instructivo&lt;/h1&gt;&lt;p&gt;El instructivo de desautorización puede ser descargado desde la siguiente ruta:&lt;/p&gt;&lt;p&gt;https://agenciadetierras-my.sharepoint.com/:b:/g/personal/rodian_saby_agenciadetierras_gov_co/EYOD3K1VeFVIveEd3BY53Z0BNcfJSrrt1jomi3D_YTFUsA?e=Fh3XjN&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="979" y="890" width="781" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="xSABTvXdTQhV1PIQ-neN-11" value="" style="endArrow=none;dashed=1;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="xSABTvXdTQhV1PIQ-neN-9" target="xSABTvXdTQhV1PIQ-neN-10" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1170" y="740" as="sourcePoint" />
+            <mxPoint x="1220" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xSABTvXdTQhV1PIQ-neN-13" value="SI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="784" y="784" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xSABTvXdTQhV1PIQ-neN-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="xSABTvXdTQhV1PIQ-neN-15" target="xSABTvXdTQhV1PIQ-neN-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="575" y="1150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xSABTvXdTQhV1PIQ-neN-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xSABTvXdTQhV1PIQ-neN-15" target="xSABTvXdTQhV1PIQ-neN-34" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xSABTvXdTQhV1PIQ-neN-15" value="&lt;span&gt;¿Se obtiene la &lt;br&gt;respuesta en la cual&lt;br&gt;el contratista\funcionario &lt;br&gt;envía los soportes de desautorización &lt;br&gt;realizada?&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="717.5" y="1080" width="150" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="xSABTvXdTQhV1PIQ-neN-21" value="&lt;h1&gt;Proceso de mejora&lt;/h1&gt;&lt;p&gt;Por la gestión pasada en la administración del licenciamiento esta parte del proceso está bajo a análisis.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Inicialmente la idea registrar los datos de la licencia (código de la licencia, tipo de licenciamiento), dentro de un documento sobre el cual, pueda solicitarse directamente a ESRI la recuperación de la Licencia.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1510" y="1025" width="270" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="xSABTvXdTQhV1PIQ-neN-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="xSABTvXdTQhV1PIQ-neN-23" target="xSABTvXdTQhV1PIQ-neN-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xSABTvXdTQhV1PIQ-neN-23" value="Se estudia las razones por las cuales no puede ser desautorizada la licencia" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="1210" y="1415" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xSABTvXdTQhV1PIQ-neN-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xSABTvXdTQhV1PIQ-neN-25" target="xSABTvXdTQhV1PIQ-neN-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xSABTvXdTQhV1PIQ-neN-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="xSABTvXdTQhV1PIQ-neN-25" target="xSABTvXdTQhV1PIQ-neN-55" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1490" y="1590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xSABTvXdTQhV1PIQ-neN-25" value="¿Los argumentos son validos?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="1255" y="1530" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="xSABTvXdTQhV1PIQ-neN-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="xSABTvXdTQhV1PIQ-neN-28" target="xSABTvXdTQhV1PIQ-neN-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xSABTvXdTQhV1PIQ-neN-28" value="Se registra los parámetros de la licencia dentro del documento dossier que será remitido a ESRI para la recuperación del licenciamiento" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="900" y="1690" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xSABTvXdTQhV1PIQ-neN-31" value="SI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="687.5" y="1130" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xSABTvXdTQhV1PIQ-neN-32" value="NO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="860" y="1130" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xSABTvXdTQhV1PIQ-neN-42" value="NO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1081" y="1150" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xSABTvXdTQhV1PIQ-neN-33" value="" style="endArrow=none;dashed=1;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="xSABTvXdTQhV1PIQ-neN-21" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1055" y="1115" as="sourcePoint" />
+            <mxPoint x="1260" y="1160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xSABTvXdTQhV1PIQ-neN-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="xSABTvXdTQhV1PIQ-neN-34" target="xSABTvXdTQhV1PIQ-neN-48" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xSABTvXdTQhV1PIQ-neN-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="xSABTvXdTQhV1PIQ-neN-34" target="xSABTvXdTQhV1PIQ-neN-55" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xSABTvXdTQhV1PIQ-neN-34" value="¿El &lt;br&gt;funcionario\contratista&lt;br&gt;reporta el no acceso a la máquina o&amp;nbsp;necesita acompañamiento&lt;br&gt;presencial?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="950" y="1080" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="xSABTvXdTQhV1PIQ-neN-38" value="SI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1220" y="1590" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xSABTvXdTQhV1PIQ-neN-41" value="NO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1375" y="1570" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xSABTvXdTQhV1PIQ-neN-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="xSABTvXdTQhV1PIQ-neN-48" target="xSABTvXdTQhV1PIQ-neN-50" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xSABTvXdTQhV1PIQ-neN-48" value="Se realiza el acompañamiento y soporte solicitado" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="920" y="1270" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xSABTvXdTQhV1PIQ-neN-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="xSABTvXdTQhV1PIQ-neN-50" target="xSABTvXdTQhV1PIQ-neN-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xSABTvXdTQhV1PIQ-neN-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="xSABTvXdTQhV1PIQ-neN-50" target="xSABTvXdTQhV1PIQ-neN-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xSABTvXdTQhV1PIQ-neN-50" value="¿Se logra la&lt;br&gt;desautorización?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="952.25" y="1380" width="135.5" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="xSABTvXdTQhV1PIQ-neN-54" value="SI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1011" y="1216" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xSABTvXdTQhV1PIQ-neN-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="xSABTvXdTQhV1PIQ-neN-55" target="xSABTvXdTQhV1PIQ-neN-57" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xSABTvXdTQhV1PIQ-neN-55" value="Se envía un correo electrónico al contratista\funcionario informándole&lt;br&gt;las razones por las cuales no puede generarse el VoBo" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="1340" y="1250" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xSABTvXdTQhV1PIQ-neN-57" value="FIN" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="1690" y="1240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xSABTvXdTQhV1PIQ-neN-60" value="SI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="925" y="1426" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xSABTvXdTQhV1PIQ-neN-65" value="NO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1081" y="1446" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NY9rAwSGXeNjgm4_Cz0t-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NY9rAwSGXeNjgm4_Cz0t-1" target="xSABTvXdTQhV1PIQ-neN-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NY9rAwSGXeNjgm4_Cz0t-1" value="Se desactivan lo usuarios generados" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="810" width="210" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

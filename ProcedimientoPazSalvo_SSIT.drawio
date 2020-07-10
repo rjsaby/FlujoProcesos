@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-10T15:12:29.421Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 OPR/68.0.3618.173" etag="DpVfeZ62CgbB7T7_GZOK" version="13.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-10T15:23:44.086Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 OPR/68.0.3618.173" etag="piwFzTXi2FhkkwTtiPs8" version="13.3.7" type="github">
   <diagram id="EWO0N7kChD3yhIQkibt1" name="Page-1">
     <mxGraphModel dx="1289" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -103,8 +103,27 @@
         <mxCell id="xSABTvXdTQhV1PIQ-neN-13" value="SI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="784" y="784" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="xSABTvXdTQhV1PIQ-neN-15" value="&lt;span&gt;¿Se obtiene la &lt;br&gt;respuesta en la cual el contratista\funcionario &lt;br&gt;envía los soportes de desautorización &lt;br&gt;realizada?&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xSABTvXdTQhV1PIQ-neN-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="xSABTvXdTQhV1PIQ-neN-15" target="xSABTvXdTQhV1PIQ-neN-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="575" y="1150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xSABTvXdTQhV1PIQ-neN-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xSABTvXdTQhV1PIQ-neN-15" target="xSABTvXdTQhV1PIQ-neN-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xSABTvXdTQhV1PIQ-neN-15" value="&lt;span&gt;¿Se obtiene la &lt;br&gt;respuesta en la cual&lt;br&gt;el contratista\funcionario &lt;br&gt;envía los soportes de desautorización &lt;br&gt;realizada?&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="717.5" y="1080" width="150" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="xSABTvXdTQhV1PIQ-neN-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xSABTvXdTQhV1PIQ-neN-19" target="xSABTvXdTQhV1PIQ-neN-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xSABTvXdTQhV1PIQ-neN-19" value="¿El funcionario\contratista&lt;br&gt;reporta el no acceso&lt;br&gt;a la máquina&lt;br&gt;en donde se instaló&amp;nbsp;&lt;br&gt;la licencia?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="1080" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="xSABTvXdTQhV1PIQ-neN-21" value="&lt;h1&gt;Proceso de mejora&lt;/h1&gt;&lt;p&gt;Por la gestión pasada en la administración del licenciamiento esta parte del proceso está bajo a análisis.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Inicialmente la idea registrar los datos de la licencia (código de la licencia, tipo de licenciamiento), dentro de un documento sobre el cual, pueda solicitarse directamente a ESRI la recuperación de la Licencia.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="1060" width="250" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

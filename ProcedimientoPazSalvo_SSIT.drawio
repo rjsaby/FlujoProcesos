@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-10T15:00:39.754Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 OPR/68.0.3618.173" etag="Iu_g5Y948L2cxqyCF2ve" version="13.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-10T15:12:29.421Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 OPR/68.0.3618.173" etag="DpVfeZ62CgbB7T7_GZOK" version="13.3.7" type="github">
   <diagram id="EWO0N7kChD3yhIQkibt1" name="Page-1">
     <mxGraphModel dx="1289" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -55,6 +55,9 @@
         <mxCell id="xSABTvXdTQhV1PIQ-neN-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-iUiOwt4sMBN9Z4fG8X7-20" target="xSABTvXdTQhV1PIQ-neN-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="xSABTvXdTQhV1PIQ-neN-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-iUiOwt4sMBN9Z4fG8X7-20" target="xSABTvXdTQhV1PIQ-neN-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-iUiOwt4sMBN9Z4fG8X7-20" value="¿Tiene&lt;br&gt;licenciamiento &lt;br&gt;ARCGIS Activo?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="731.25" y="654" width="122.5" height="130" as="geometry" />
         </mxCell>
@@ -82,8 +85,11 @@
         <mxCell id="xSABTvXdTQhV1PIQ-neN-7" value="NO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="703.25" y="698" width="40" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="xSABTvXdTQhV1PIQ-neN-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xSABTvXdTQhV1PIQ-neN-9" target="xSABTvXdTQhV1PIQ-neN-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xSABTvXdTQhV1PIQ-neN-9" value="Se le envía un correo electrónico al funcionario solicitando desautorizar la licencia según el instructivo definido por la SSIT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="920" width="236.75" height="60" as="geometry" />
+          <mxGeometry x="674.13" y="920" width="236.75" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xSABTvXdTQhV1PIQ-neN-10" value="&lt;h1&gt;Instructivo&lt;/h1&gt;&lt;p&gt;El instructivo de desautorización puede ser descargado desde la siguiente ruta:&lt;/p&gt;&lt;p&gt;https://agenciadetierras-my.sharepoint.com/:b:/g/personal/rodian_saby_agenciadetierras_gov_co/EYOD3K1VeFVIveEd3BY53Z0BNcfJSrrt1jomi3D_YTFUsA?e=Fh3XjN&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="979" y="890" width="781" height="120" as="geometry" />
@@ -93,6 +99,12 @@
             <mxPoint x="1170" y="740" as="sourcePoint" />
             <mxPoint x="1220" y="690" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="xSABTvXdTQhV1PIQ-neN-13" value="SI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="784" y="784" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xSABTvXdTQhV1PIQ-neN-15" value="&lt;span&gt;¿Se obtiene la &lt;br&gt;respuesta en la cual el contratista\funcionario &lt;br&gt;envía los soportes de desautorización &lt;br&gt;realizada?&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="717.5" y="1080" width="150" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

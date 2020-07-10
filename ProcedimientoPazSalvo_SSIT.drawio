@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-07-10T15:23:44.086Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 OPR/68.0.3618.173" etag="piwFzTXi2FhkkwTtiPs8" version="13.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-10T15:59:13.307Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 OPR/68.0.3618.173" etag="1oFio0wgnXDEE0YMFY2c" version="13.3.7" type="github">
   <diagram id="EWO0N7kChD3yhIQkibt1" name="Page-1">
-    <mxGraphModel dx="1289" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3223" dy="2010" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -110,20 +110,102 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xSABTvXdTQhV1PIQ-neN-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xSABTvXdTQhV1PIQ-neN-15" target="xSABTvXdTQhV1PIQ-neN-19">
+        <mxCell id="xSABTvXdTQhV1PIQ-neN-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xSABTvXdTQhV1PIQ-neN-15" target="xSABTvXdTQhV1PIQ-neN-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xSABTvXdTQhV1PIQ-neN-15" value="&lt;span&gt;¿Se obtiene la &lt;br&gt;respuesta en la cual&lt;br&gt;el contratista\funcionario &lt;br&gt;envía los soportes de desautorización &lt;br&gt;realizada?&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="717.5" y="1080" width="150" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="xSABTvXdTQhV1PIQ-neN-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xSABTvXdTQhV1PIQ-neN-19" target="xSABTvXdTQhV1PIQ-neN-21">
+        <mxCell id="xSABTvXdTQhV1PIQ-neN-21" value="&lt;h1&gt;Proceso de mejora&lt;/h1&gt;&lt;p&gt;Por la gestión pasada en la administración del licenciamiento esta parte del proceso está bajo a análisis.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Inicialmente la idea registrar los datos de la licencia (código de la licencia, tipo de licenciamiento), dentro de un documento sobre el cual, pueda solicitarse directamente a ESRI la recuperación de la Licencia.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="1025" width="270" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="xSABTvXdTQhV1PIQ-neN-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xSABTvXdTQhV1PIQ-neN-23" target="xSABTvXdTQhV1PIQ-neN-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xSABTvXdTQhV1PIQ-neN-19" value="¿El funcionario\contratista&lt;br&gt;reporta el no acceso&lt;br&gt;a la máquina&lt;br&gt;en donde se instaló&amp;nbsp;&lt;br&gt;la licencia?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xSABTvXdTQhV1PIQ-neN-23" value="Se estudia las razones por las cuales no puede ser desautorizada la licencia" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="1415" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xSABTvXdTQhV1PIQ-neN-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xSABTvXdTQhV1PIQ-neN-25" target="xSABTvXdTQhV1PIQ-neN-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xSABTvXdTQhV1PIQ-neN-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="xSABTvXdTQhV1PIQ-neN-25" target="xSABTvXdTQhV1PIQ-neN-55">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1490" y="1590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xSABTvXdTQhV1PIQ-neN-25" value="¿Los argumentos son validos?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1255" y="1530" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="xSABTvXdTQhV1PIQ-neN-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="xSABTvXdTQhV1PIQ-neN-28" target="xSABTvXdTQhV1PIQ-neN-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xSABTvXdTQhV1PIQ-neN-28" value="Se registra los parámetros de la licencia dentro del documento dossier que será remitido a ESRI para la recuperación del licenciamiento" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="900" y="1690" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xSABTvXdTQhV1PIQ-neN-31" value="SI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="687.5" y="1130" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xSABTvXdTQhV1PIQ-neN-32" value="NO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="860" y="1130" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xSABTvXdTQhV1PIQ-neN-42" value="NO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1081" y="1150" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xSABTvXdTQhV1PIQ-neN-33" value="" style="endArrow=none;dashed=1;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="xSABTvXdTQhV1PIQ-neN-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1055" y="1115" as="sourcePoint" />
+            <mxPoint x="1260" y="1160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xSABTvXdTQhV1PIQ-neN-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xSABTvXdTQhV1PIQ-neN-34" target="xSABTvXdTQhV1PIQ-neN-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xSABTvXdTQhV1PIQ-neN-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xSABTvXdTQhV1PIQ-neN-34" target="xSABTvXdTQhV1PIQ-neN-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xSABTvXdTQhV1PIQ-neN-34" value="¿El &lt;br&gt;funcionario\contratista&lt;br&gt;reporta el no acceso a la máquina o&amp;nbsp;necesita acompañamiento&lt;br&gt;presencial?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="950" y="1080" width="140" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="xSABTvXdTQhV1PIQ-neN-21" value="&lt;h1&gt;Proceso de mejora&lt;/h1&gt;&lt;p&gt;Por la gestión pasada en la administración del licenciamiento esta parte del proceso está bajo a análisis.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Inicialmente la idea registrar los datos de la licencia (código de la licencia, tipo de licenciamiento), dentro de un documento sobre el cual, pueda solicitarse directamente a ESRI la recuperación de la Licencia.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="1060" width="250" height="180" as="geometry" />
+        <mxCell id="xSABTvXdTQhV1PIQ-neN-38" value="SI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="1590" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xSABTvXdTQhV1PIQ-neN-41" value="NO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1375" y="1570" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xSABTvXdTQhV1PIQ-neN-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xSABTvXdTQhV1PIQ-neN-48" target="xSABTvXdTQhV1PIQ-neN-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xSABTvXdTQhV1PIQ-neN-48" value="Se realiza el acompañamiento y soporte solicitado" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="920" y="1270" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xSABTvXdTQhV1PIQ-neN-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="xSABTvXdTQhV1PIQ-neN-50" target="xSABTvXdTQhV1PIQ-neN-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xSABTvXdTQhV1PIQ-neN-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xSABTvXdTQhV1PIQ-neN-50" target="xSABTvXdTQhV1PIQ-neN-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xSABTvXdTQhV1PIQ-neN-50" value="¿Se logra la&lt;br&gt;desautorización?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="952.25" y="1380" width="135.5" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="xSABTvXdTQhV1PIQ-neN-54" value="SI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1011" y="1216" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xSABTvXdTQhV1PIQ-neN-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xSABTvXdTQhV1PIQ-neN-55" target="xSABTvXdTQhV1PIQ-neN-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xSABTvXdTQhV1PIQ-neN-55" value="Se envía un correo electrónico al contratista\funcionario informándole&lt;br&gt;las razones por las cuales no puede generarse el VoBo" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="1250" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xSABTvXdTQhV1PIQ-neN-57" value="FIN" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1690" y="1240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xSABTvXdTQhV1PIQ-neN-60" value="SI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="925" y="1426" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xSABTvXdTQhV1PIQ-neN-65" value="NO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1081" y="1446" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

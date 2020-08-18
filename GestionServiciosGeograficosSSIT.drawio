@@ -1,1 +1,152 @@
-<mxfile host="app.diagrams.net" modified="2020-08-18T13:53:32.520Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36 OPR/70.0.3728.106" etag="Ntgwh4FxdYHzZ2kYacci" version="13.4.4" type="github"><diagram id="5hwPQA1wPHpID_zF3mBO" name="Page-1">5Vpbj5s4FP41PDbCEEjymEky3ZEmu6tJpG375oATXAFmjcmlv36PjQkQ6JRKnXGqfUnsYxvb53znCpa7SM4fOc6iNQtJbDl2eLbcpeU4yJnO4E9SLiVlao9LwoHTUE+qCRv6jWiirakFDUnemigYiwXN2sSApSkJRIuGOWen9rQ9i9u7ZvhAOoRNgOMu9R8aikhTkT+rB/4g9BDprafOpBxIcDVZ3ySPcMhODZK7stwFZ0yUreS8ILFkXsWXct3jd0avB+MkFUMWrL/w7XOYx97plEdfFoE72/gfXH02cakuTEK4v+4yLiJ2YCmOVzX1gbMiDYl8qg29es4zYxkQERC/EiEuWpi4EAxIkUhiPVruKTf67lU0KWcFD8gr568ggfmBiFfmOVeGA1IJS4jgF1jHSYwFPbbPgTVkDtd5NVehoRn7E0zWzz3iuNA7zQNR4Jh+wwG1Fq714KZSRZTqPKVH4ALmlCkS/GwIP9KAsly2nz52JNaWxymigmwyrNh2AqXs4/2RcEHOr3O/yy29YKIBrTV6rLunWj2u2hs1NMO334i93m+OYWcghscmMex0MPwUwk3pngY9IP6bs4DkEsFrmlPJWMtbbEki582RgDXQX5erwiJmCtlb+P23IIplGYgE3xvSkXGoT35zqI8HQt03CfVxB+ov5AgwvgV5ru2yIqSCXw12jKWpzuCseM94gq+G2yZydawsOU52FFaRXN0rzyB4oUc5cl+YN2/eZyYwL+V5+aTXq85n2Rl5VXd5bg4uL7r3C3XFH6grU6OhDTIrnVogn1vyuBvpINukePyOKbMWjvXwuLqxX/siDaSbVokU52CLcCKNk+U+dg1SxJJdkb+LMUJoMvJa9sh1u/YIIa9rj5DzVgYJjY1g/kzFp0a7YY+gVwNedi5N9Ju1YtOhemI0Q5u+Et1yBT5w7SwoEpWaXX14xtkuJqWDhxABlgQUknzzTtyZtb246/d4cfs9vbhjxFH8QiBXMc+PSw1GLX51zAaUlzVw3bklj+fHcIGHHQDZP8gWGgH5WcE4wJn6xzmTWC7bN97iRHaSicUuBvUI2aj7QEc+UDmZ9Wo7X863f/VEzfcV6I5npgNd5P9PYyk0tAJS+nljqjU1Kx9jPny4fCZG5dOtUfVGuwvZo4dmpSkNpV3DMgWnIQ5VUj7/c2s6/PXGN268L/h1nNH7hr9mE3JkTg28oWpgNgLwOmrwQtTLhlbgKuuzuaUrVgD5oGjVcS/Kw5NcVmHLslWVIyaybCXVJSXwDPmiwny869ntLLHPmaNZr6K8nTufdOSwimlCUyWHbgXR6i8cwnkOvKyby2zEPK8n6Me5BfLfNbcw8hbzDgInZ3BOYjS7dro5yQvYm4zwWhWqJOWqC2tIRKzqhVDA0lzw4kK6mmNaG9rK4NumswinPwqao41iZCETwZKjFS/DW9YnTdaHZE9T7Rjk3imwHcdldfBWGMarhe5o0nYE/mwyOGJC7k+LBLr1BxxqrPEZjLv6Dw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-08-18T15:43:14.287Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36 OPR/70.0.3728.106" etag="RBKPKtLT3FWuVOOudQC-" version="13.4.4" type="github">
+  <diagram id="5hwPQA1wPHpID_zF3mBO" name="Page-1">
+    <mxGraphModel dx="1289" dy="1631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MZrTLdsl5wwshZCc39S6-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MZrTLdsl5wwshZCc39S6-1" target="MZrTLdsl5wwshZCc39S6-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MZrTLdsl5wwshZCc39S6-1" value="Actualización del Inventario de Servicios SIG" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="70" y="40" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MZrTLdsl5wwshZCc39S6-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MZrTLdsl5wwshZCc39S6-2" target="MZrTLdsl5wwshZCc39S6-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MZrTLdsl5wwshZCc39S6-2" value="Identificación del Proceso Misional\Temática\Módulo SIT que soporta" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="70" y="140" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MZrTLdsl5wwshZCc39S6-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MZrTLdsl5wwshZCc39S6-4" target="MZrTLdsl5wwshZCc39S6-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MZrTLdsl5wwshZCc39S6-4" value="Revisión del servicio dentro de las plataformas SIG en los ambientes respectivos" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="70" y="240" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MZrTLdsl5wwshZCc39S6-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="MZrTLdsl5wwshZCc39S6-6" target="MZrTLdsl5wwshZCc39S6-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MZrTLdsl5wwshZCc39S6-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="MZrTLdsl5wwshZCc39S6-6" target="MZrTLdsl5wwshZCc39S6-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MZrTLdsl5wwshZCc39S6-6" value="¿El servicio funciona correctamente?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="117.5" y="330" width="115" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="MZrTLdsl5wwshZCc39S6-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="MZrTLdsl5wwshZCc39S6-8" target="MZrTLdsl5wwshZCc39S6-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MZrTLdsl5wwshZCc39S6-8" value="Identificar y documentar los problemas evidenciados" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="290" y="360" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MZrTLdsl5wwshZCc39S6-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MZrTLdsl5wwshZCc39S6-10" target="MZrTLdsl5wwshZCc39S6-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MZrTLdsl5wwshZCc39S6-10" value="Documentar: &lt;br&gt;1. Las capas asociadas al servicio web publicado.&lt;br&gt;2. El METADATO del servicio" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="70" y="490" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MZrTLdsl5wwshZCc39S6-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="MZrTLdsl5wwshZCc39S6-12" target="MZrTLdsl5wwshZCc39S6-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MZrTLdsl5wwshZCc39S6-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="MZrTLdsl5wwshZCc39S6-12" target="MZrTLdsl5wwshZCc39S6-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MZrTLdsl5wwshZCc39S6-12" value="¿El servicio, sigue soportando actividades ANT?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="540" y="330" width="122.5" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="MZrTLdsl5wwshZCc39S6-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="MZrTLdsl5wwshZCc39S6-15" target="MZrTLdsl5wwshZCc39S6-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MZrTLdsl5wwshZCc39S6-15" value="Realizar los procesos de adecuación y puesta en funcionamiento necesarios" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="505" y="490" width="192.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MZrTLdsl5wwshZCc39S6-17" value="Eliminar el servicio de las plataformas geográficas" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="710" y="360" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MZrTLdsl5wwshZCc39S6-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="MZrTLdsl5wwshZCc39S6-20" target="MZrTLdsl5wwshZCc39S6-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MZrTLdsl5wwshZCc39S6-20" value="Recuperar el Documento de Mapa que construye el servicio" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="70" y="600" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TL62cMXvWyaPl-sWIQFl-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MZrTLdsl5wwshZCc39S6-22" target="TL62cMXvWyaPl-sWIQFl-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TL62cMXvWyaPl-sWIQFl-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MZrTLdsl5wwshZCc39S6-22" target="TL62cMXvWyaPl-sWIQFl-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MZrTLdsl5wwshZCc39S6-22" value="¿Se cuenta con el documento de mapa que definió inicialmente el servicio?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="113.75" y="697" width="122.5" height="113" as="geometry" />
+        </mxCell>
+        <mxCell id="TL62cMXvWyaPl-sWIQFl-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TL62cMXvWyaPl-sWIQFl-1" target="TL62cMXvWyaPl-sWIQFl-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TL62cMXvWyaPl-sWIQFl-1" value="Republicar el servicio bajo el nuevo dominio ANT" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="115" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TL62cMXvWyaPl-sWIQFl-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TL62cMXvWyaPl-sWIQFl-4" target="TL62cMXvWyaPl-sWIQFl-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="435" y="880" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TL62cMXvWyaPl-sWIQFl-4" value="Recontruir el documento de mapa teniendo en cuenta las capas y requerimientos analizados en pasos anteriores" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="340" y="723.5" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TL62cMXvWyaPl-sWIQFl-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TL62cMXvWyaPl-sWIQFl-9" target="TL62cMXvWyaPl-sWIQFl-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TL62cMXvWyaPl-sWIQFl-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TL62cMXvWyaPl-sWIQFl-9" target="TL62cMXvWyaPl-sWIQFl-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TL62cMXvWyaPl-sWIQFl-9" value="¿El servicio funciona correctamente?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="122.5" y="950" width="105" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="TL62cMXvWyaPl-sWIQFl-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TL62cMXvWyaPl-sWIQFl-11" target="TL62cMXvWyaPl-sWIQFl-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TL62cMXvWyaPl-sWIQFl-11" value="Actualizar inventario de servicios y METADATO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="115" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TL62cMXvWyaPl-sWIQFl-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TL62cMXvWyaPl-sWIQFl-13" target="MZrTLdsl5wwshZCc39S6-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TL62cMXvWyaPl-sWIQFl-13" value="INICIO" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="150" y="-50" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TL62cMXvWyaPl-sWIQFl-15" value="FIN" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="150" y="1190.5" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TL62cMXvWyaPl-sWIQFl-17" value="SI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="165" y="446" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TL62cMXvWyaPl-sWIQFl-18" value="SI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="166" y="806" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TL62cMXvWyaPl-sWIQFl-19" value="SI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="165" y="1048" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TL62cMXvWyaPl-sWIQFl-21" value="SI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="446" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TL62cMXvWyaPl-sWIQFl-22" value="NO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="227.5" y="370" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TL62cMXvWyaPl-sWIQFl-23" value="NO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="370" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TL62cMXvWyaPl-sWIQFl-24" value="NO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="228.25" y="753" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TL62cMXvWyaPl-sWIQFl-25" value="NO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="1000" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TL62cMXvWyaPl-sWIQFl-26" value="GESTIÓN SIG" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="450" y="-30" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TL62cMXvWyaPl-sWIQFl-27" value="ASOCIADO AL PROCESO DE MIGRACIÓN&amp;nbsp; DOMINIO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="450" y="30" width="150" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

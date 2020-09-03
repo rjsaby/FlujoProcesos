@@ -1,1 +1,76 @@
-<mxfile host="app.diagrams.net" modified="2020-09-03T14:45:50.930Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" version="13.6.6" etag="lTGIe7K_p570iCxhCMRT" type="github"><diagram id="8OrvkdTVr18Zg1LkMqOB">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-03T16:10:52.994Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="D4JUBZvnmv6X-3eVWabz" version="13.6.6" type="github">
+  <diagram id="8OrvkdTVr18Zg1LkMqOB" name="Page-1">
+    <mxGraphModel dx="1035" dy="1843" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="M3Aznm4MBpFyJ3QP4b91-51" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="170" width="800" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="M3Aznm4MBpFyJ3QP4b91-31" value="Estructura LADM_COL 3.0" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="290" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="M3Aznm4MBpFyJ3QP4b91-32" value="Modelos de Operación CM&#xa;- Modelo Insumos: Centralizando la información&#xa;suministrada tanto por SNR como por Gestor &#xa;Catastral.&#xa;- Modelo Limites Cartografía: Centralizando&#xa;la información suministrada por GC en torno a&#xa;Limites Administrativos, Terrenos, Sectores, &#xa;etc.&#xa;- Modelo Levantamiento Catastral: Información&#xa;a ser incorporada dentro del proceso de&#xa;Actualización Catastral.&#xa;- Modelo de Avaluos: Centralizando la información&#xa;correspondiente a Zonas Geoeconómicas y Avaluos&#xa;con que se disponga." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="M3Aznm4MBpFyJ3QP4b91-31">
+          <mxGeometry y="26" width="290" height="214" as="geometry" />
+        </mxCell>
+        <mxCell id="M3Aznm4MBpFyJ3QP4b91-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="M3Aznm4MBpFyJ3QP4b91-39" target="M3Aznm4MBpFyJ3QP4b91-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M3Aznm4MBpFyJ3QP4b91-43" value="" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="303" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M3Aznm4MBpFyJ3QP4b91-35" value="Análisis Predial Preliminar" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="220" width="250" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="M3Aznm4MBpFyJ3QP4b91-36" value="- Trámites por Predio: Información&#xa;suministrada por el Municipio&#xa;o por el Departamento.&#xa;- Identificación si el predio es bien&#xa;público.&#xa;- Incorporación de información&#xa;adicional entregada por las&#xa;empresas de servicios públicos&#xa;- Identificación a nivel predio&#xa;si sobre este existe ofertas de&#xa;compraventa u otro" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="M3Aznm4MBpFyJ3QP4b91-35">
+          <mxGeometry y="26" width="250" height="174" as="geometry" />
+        </mxCell>
+        <mxCell id="M3Aznm4MBpFyJ3QP4b91-44" value="BASE DE DATOS POR MUNICIPIO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="470" y="260" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="M3Aznm4MBpFyJ3QP4b91-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="M3Aznm4MBpFyJ3QP4b91-32" target="M3Aznm4MBpFyJ3QP4b91-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M3Aznm4MBpFyJ3QP4b91-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="M3Aznm4MBpFyJ3QP4b91-36" target="M3Aznm4MBpFyJ3QP4b91-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M3Aznm4MBpFyJ3QP4b91-39" value="Información Cartográfica Secundaria" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="460" width="260" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="M3Aznm4MBpFyJ3QP4b91-40" value="- Incorporación de las posibles restricciones&#xa;que existan a nivel predial.&#xa;- Identificación de las geometrías a &#xa;nivel de unidad de intervención por Muni-&#xa;cipio&#xa;- Información cartográfica recabada de&#xa;los POTs, EOTs y demás&#xa;- Información cartográfica recabada de&#xa;Entidades de Orden Nacional" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="M3Aznm4MBpFyJ3QP4b91-39">
+          <mxGeometry y="26" width="260" height="144" as="geometry" />
+        </mxCell>
+        <mxCell id="M3Aznm4MBpFyJ3QP4b91-52" value="Servidor Exclusivo BD&lt;br&gt;(On-Premise\On-Cloud)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="660" y="650" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M3Aznm4MBpFyJ3QP4b91-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="M3Aznm4MBpFyJ3QP4b91-54" target="M3Aznm4MBpFyJ3QP4b91-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M3Aznm4MBpFyJ3QP4b91-54" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="75" y="-150" width="675" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="M3Aznm4MBpFyJ3QP4b91-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="M3Aznm4MBpFyJ3QP4b91-54" target="M3Aznm4MBpFyJ3QP4b91-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M3Aznm4MBpFyJ3QP4b91-57" value="Desarrollo de visores geográficos para la consulta y edición de la información levantada en campo u oficina" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="-65" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="M3Aznm4MBpFyJ3QP4b91-58" value="Desarrollo de Tableros de Control para el seguimiento de los procesos de Actualización Catastral" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="-65" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="M3Aznm4MBpFyJ3QP4b91-60" value="SERVICIOS (FRONT-END)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="595" y="-180" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M3Aznm4MBpFyJ3QP4b91-62" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="105" y="-135" width="220" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="M3Aznm4MBpFyJ3QP4b91-56" value="Implementación de formularios desarrollados por Agencia de Cooperación Suiza (Levantamiento Catastral)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="-120" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="M3Aznm4MBpFyJ3QP4b91-61" value="Desarrollo de nuevos formularios acorde con las necesidades propias del Municipio" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="-10" width="190" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

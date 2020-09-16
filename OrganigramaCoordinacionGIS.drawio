@@ -1,26 +1,50 @@
-<mxfile host="app.diagrams.net" modified="2020-09-16T23:10:01.425Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="AkccujcDIWhaVjnUfqRV" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-16T23:20:10.980Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="bxrEv_kLOQdOFNklP7cb" version="13.6.6" type="github">
   <diagram id="Y17Pwww_urs-gfdWa0kV" name="Page-1">
     <mxGraphModel dx="2187" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="OEdZfnI2xc4ZMJ_EUlpt-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="430" y="40" width="30" height="60" as="geometry" />
+        <mxCell id="OEdZfnI2xc4ZMJ_EUlpt-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OEdZfnI2xc4ZMJ_EUlpt-1" target="OEdZfnI2xc4ZMJ_EUlpt-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OEdZfnI2xc4ZMJ_EUlpt-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OEdZfnI2xc4ZMJ_EUlpt-1" target="OEdZfnI2xc4ZMJ_EUlpt-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OEdZfnI2xc4ZMJ_EUlpt-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OEdZfnI2xc4ZMJ_EUlpt-1" target="OEdZfnI2xc4ZMJ_EUlpt-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OEdZfnI2xc4ZMJ_EUlpt-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OEdZfnI2xc4ZMJ_EUlpt-1" target="OEdZfnI2xc4ZMJ_EUlpt-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OEdZfnI2xc4ZMJ_EUlpt-1" value="Coordinador SIG" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="40" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OEdZfnI2xc4ZMJ_EUlpt-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OEdZfnI2xc4ZMJ_EUlpt-2" target="OEdZfnI2xc4ZMJ_EUlpt-21">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OEdZfnI2xc4ZMJ_EUlpt-2" value="Desarrollador SIG" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="-150" y="230" width="30" height="60" as="geometry" />
+          <mxGeometry x="-160" y="190" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OEdZfnI2xc4ZMJ_EUlpt-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OEdZfnI2xc4ZMJ_EUlpt-3" target="OEdZfnI2xc4ZMJ_EUlpt-22">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OEdZfnI2xc4ZMJ_EUlpt-3" value="Estructurador" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="230" width="30" height="60" as="geometry" />
+          <mxGeometry x="90" y="190" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OEdZfnI2xc4ZMJ_EUlpt-4" value="Estructurador" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="180" y="230" width="30" height="60" as="geometry" />
+          <mxGeometry x="170" y="190" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OEdZfnI2xc4ZMJ_EUlpt-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OEdZfnI2xc4ZMJ_EUlpt-5" target="OEdZfnI2xc4ZMJ_EUlpt-23">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OEdZfnI2xc4ZMJ_EUlpt-5" value="Profesional&lt;br&gt;Especializado" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="440" y="220" width="30" height="60" as="geometry" />
+          <mxGeometry x="430" y="180" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OEdZfnI2xc4ZMJ_EUlpt-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OEdZfnI2xc4ZMJ_EUlpt-6" target="OEdZfnI2xc4ZMJ_EUlpt-24">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OEdZfnI2xc4ZMJ_EUlpt-6" value="Profesional GIS &lt;br&gt;(Mesa Ayuda Proyecto Territorios+)" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="730" y="240" width="30" height="60" as="geometry" />
+          <mxGeometry x="740" y="190" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OEdZfnI2xc4ZMJ_EUlpt-13" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;Profesional Ingeniero Sistemas o Profesional Ingeniero Catastral, Topográfico o ciencias afines, deseable con especialización en Sistemas de Información Geográfica, Geomática o afines, con experiencia certificada en la generación de aplicaciones y/o desarrollos y/o automatizaciones geográficas y alfanuméricas implementando lenguajes de programación tal como Python y/o Javascript y/o HTML, deseable con experiencia en el manejo de sistemas manejadores de bases de datos tales como Oracle, Postgres y/o SQL Server. Con experiencia laboral certificada en al menos dos (2) proyectos asociados a la gestión y administración de datos geográficos bajo software ArcGIS.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-260" y="350" width="250" height="230" as="geometry" />
@@ -39,6 +63,36 @@
         </mxCell>
         <mxCell id="OEdZfnI2xc4ZMJ_EUlpt-18" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;- Apoya la construcción de metodologías asociadas a la gestión del dato geográfico dentro de los sistemas de información de la entidad.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;- Apoya procesos de seguimiento y ejecución de planes de trabajo, asociado con el componente espacial.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;- Crea, estructura, centraliza y publica, por medio de servicios web geográficos, información clave para el desarrollo y seguimiento de proyectos geográficos de la entidad.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;- Apoya la construcción de tableros de control, encuestas, y demás servicios, que propendan por apoyar la toma de decisiones a nivel gerencial de la entidad.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;- Apoya procesos de análitica de datos, inteligencia de negocios y big data, teniendo en cuenta los proyectos en operación, la data centralizada y los objetivos estratégicos de los proyectos en pro de generar valor agregado sobre la información.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="630" width="250" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="OEdZfnI2xc4ZMJ_EUlpt-19" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;Profesional Ingeniero Sistemas o Profesional Ingeniero Catastral, Topográfico o ciencias afines, deseable con especialización en Sistemas de Información Geográfica, Geomática o afines, con experiencia profesional certificada en proyectos relacionados con la gestión de información georreferenciada. Con conocimiento técnico en manipulación de datos bajo el ecosistema ESRI y deseable manejo y de datos en sistemas manejadores de bases de datos.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="330" width="250" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="OEdZfnI2xc4ZMJ_EUlpt-20" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;- Apoyo a la operación geográfica de los municipios asociados a la actualización catastral.&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;- Apoyo en la construcción de lineamientos, guías y/o manuales, que clarifiquen técnicamente la operación de actualización catastral en campo y oficina.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;- Atención a requerimientos técnicos en la gestión del dato predial capturado durante las fases o módulos del proceso de actualización catastral-.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;- Documentar los requerimientos geográficos y alfanuméricos asociados al proyecto de actualización catastral.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="630" width="250" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="OEdZfnI2xc4ZMJ_EUlpt-21" value="PERFIL" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="320" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OEdZfnI2xc4ZMJ_EUlpt-22" value="PERFIL" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="320" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OEdZfnI2xc4ZMJ_EUlpt-23" value="PERFIL" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="317" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OEdZfnI2xc4ZMJ_EUlpt-24" value="PERFIL" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="317" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OEdZfnI2xc4ZMJ_EUlpt-39" value="ACTIVIDADES" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="620" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OEdZfnI2xc4ZMJ_EUlpt-40" value="ACTIVIDADES" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="620" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OEdZfnI2xc4ZMJ_EUlpt-41" value="ACTIVIDADES" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="620" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OEdZfnI2xc4ZMJ_EUlpt-42" value="ACTIVIDADES" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="620" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

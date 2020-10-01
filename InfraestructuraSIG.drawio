@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-01T04:21:25.748Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="HINoZZou3jfgvWt4kZgU" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-01T04:24:46.214Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="7tjnn0F7LCnYnx2JGNJ3" version="13.7.7" type="github">
   <diagram id="OT2ylGGXjy-A4Y0dgs6g" name="Page-1">
-    <mxGraphModel dx="3174" dy="2626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2235" dy="2043" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -232,6 +232,9 @@
         </mxCell>
         <mxCell id="fKhNpdI1kTvp1TnhJyk3-75" value="¿Qué debe garantizar el contenedor?&lt;br&gt;- Servicios de File Storage\Blob Storage&lt;br&gt;- IPs Públicas y Privadas&lt;br&gt;- Certificados de Seguridad&lt;br&gt;- IIS&lt;br&gt;- Balanceador de carga&lt;br&gt;- Puertos abiertos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-80" y="-200" width="180" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="fKhNpdI1kTvp1TnhJyk3-78" value="¿Qué necesita la operación?&lt;br&gt;- Internet, recomendado 50 Mbs de Descarga y 10 Mbs de Carga&lt;br&gt;- Computadores bajo los parámetros mínimos establecidos&lt;br&gt;- Equipos GNSS\Tablets" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="750" y="780" width="220" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

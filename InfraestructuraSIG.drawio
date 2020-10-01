@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2020-10-01T03:42:10.375Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="d4zo4T3s4KUVO8ojslmr" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-01T04:10:16.748Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="UJOuH2S_VaXAkF7C_5fu" version="13.7.7" type="github">
   <diagram id="OT2ylGGXjy-A4Y0dgs6g" name="Page-1">
-    <mxGraphModel dx="1609" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1414" dy="1533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="fKhNpdI1kTvp1TnhJyk3-52" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="660" y="-70" width="80" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="fKhNpdI1kTvp1TnhJyk3-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fKhNpdI1kTvp1TnhJyk3-37" target="fKhNpdI1kTvp1TnhJyk3-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -27,6 +30,14 @@
         </mxCell>
         <mxCell id="fKhNpdI1kTvp1TnhJyk3-2" value="BALANCEADOR DE&lt;br&gt;CARGAS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="235" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fKhNpdI1kTvp1TnhJyk3-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fKhNpdI1kTvp1TnhJyk3-3" target="fKhNpdI1kTvp1TnhJyk3-46">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="620" y="390" />
+              <mxPoint x="620" y="-70" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="fKhNpdI1kTvp1TnhJyk3-3" value="PORTAL FOR ARCGIS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="360" width="120" height="60" as="geometry" />
@@ -55,6 +66,9 @@
         <mxCell id="fKhNpdI1kTvp1TnhJyk3-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="60" width="720" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="fKhNpdI1kTvp1TnhJyk3-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fKhNpdI1kTvp1TnhJyk3-23" target="fKhNpdI1kTvp1TnhJyk3-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fKhNpdI1kTvp1TnhJyk3-23" value="FTP&lt;br&gt;(Transmisión de Datos)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="304" y="80" width="120" height="60" as="geometry" />
         </mxCell>
@@ -71,7 +85,7 @@
           <mxGeometry x="330" y="647" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fKhNpdI1kTvp1TnhJyk3-28" value="HTTPS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="474" y="667" width="40" height="20" as="geometry" />
+          <mxGeometry x="461" y="667" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="fKhNpdI1kTvp1TnhJyk3-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fKhNpdI1kTvp1TnhJyk3-29" target="fKhNpdI1kTvp1TnhJyk3-26">
           <mxGeometry relative="1" as="geometry" />
@@ -91,6 +105,14 @@
         <mxCell id="fKhNpdI1kTvp1TnhJyk3-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="480" width="720" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="fKhNpdI1kTvp1TnhJyk3-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fKhNpdI1kTvp1TnhJyk3-33" target="fKhNpdI1kTvp1TnhJyk3-53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-30" y="525" />
+              <mxPoint x="-30" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="fKhNpdI1kTvp1TnhJyk3-33" value="SERVIDOR DE&lt;br&gt;IMÁGENES" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="302" y="495" width="120" height="60" as="geometry" />
         </mxCell>
@@ -106,6 +128,45 @@
         </mxCell>
         <mxCell id="fKhNpdI1kTvp1TnhJyk3-38" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;CONTENEDOR&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="30" y="10" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fKhNpdI1kTvp1TnhJyk3-41" value="AZI D4v3 (8vc) 8 core (2300 MHz) 32 GB&lt;br&gt;! Maquina Virtual de 4 cores, 32 GB de RAM, serie G V1 Xeon E5-2698Bv3 2000 Mhz" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="305" width="170" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="fKhNpdI1kTvp1TnhJyk3-42" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fKhNpdI1kTvp1TnhJyk3-11" target="fKhNpdI1kTvp1TnhJyk3-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-160" y="570" as="sourcePoint" />
+            <mxPoint x="-110" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fKhNpdI1kTvp1TnhJyk3-43" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=47.5;entryPerimeter=0;" edge="1" parent="1" source="fKhNpdI1kTvp1TnhJyk3-5" target="fKhNpdI1kTvp1TnhJyk3-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-160" y="220" as="sourcePoint" />
+            <mxPoint x="-110" y="170" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="40" y="353" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fKhNpdI1kTvp1TnhJyk3-44" value="AZI D4v3 (4vc) 4 core (2300 MHz) 16 GB&lt;br&gt;! Maquina Virtual de 4 cores, 16 GB de RAM, serie D V3 Xeon E5-2673v4 2000 Mhz" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="30" width="170" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="fKhNpdI1kTvp1TnhJyk3-46" value="AZI D4v3 (4vc) 4 core (2300 MHz) 16 GB&lt;br&gt;! Maquina Virtual de 4 cores, 16 GB de RAM, serie D V3 Xeon E5-2673v4 2000 Mhz" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="210" y="-150" width="170" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="fKhNpdI1kTvp1TnhJyk3-47" value="" style="endArrow=classic;html=1;entryX=0.145;entryY=1;entryDx=0;entryDy=-4.35;entryPerimeter=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="fKhNpdI1kTvp1TnhJyk3-4" target="fKhNpdI1kTvp1TnhJyk3-46">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-90" y="-30" as="sourcePoint" />
+            <mxPoint x="-40" y="-80" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="235" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fKhNpdI1kTvp1TnhJyk3-51" value="* ARCGIS MONITOR" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="-40" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fKhNpdI1kTvp1TnhJyk3-53" value="AZI D4v3 (8vc) 8 core (2300 MHz) 32 GB&lt;br&gt;! Maquina Virtual de 4 cores, 32 GB de RAM, serie G V1 Xeon E5-2698Bv3 2000 Mhz" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="540" width="170" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

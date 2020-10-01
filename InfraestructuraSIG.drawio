@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-01T04:10:16.748Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="UJOuH2S_VaXAkF7C_5fu" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-01T04:13:36.343Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="5g4ZBT6DE4eNEj03C78m" version="13.7.7" type="github">
   <diagram id="OT2ylGGXjy-A4Y0dgs6g" name="Page-1">
-    <mxGraphModel dx="1414" dy="1533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1833" dy="1793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -167,6 +167,21 @@
         </mxCell>
         <mxCell id="fKhNpdI1kTvp1TnhJyk3-53" value="AZI D4v3 (8vc) 8 core (2300 MHz) 32 GB&lt;br&gt;! Maquina Virtual de 4 cores, 32 GB de RAM, serie G V1 Xeon E5-2698Bv3 2000 Mhz" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="-230" y="540" width="170" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="fKhNpdI1kTvp1TnhJyk3-55" value="Prototipo de MV calculados&lt;br&gt;para un promedio de 60 usuarios&amp;nbsp;&lt;br&gt;implementando todas las aplicaciones&lt;br&gt;ESRI" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="720" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fKhNpdI1kTvp1TnhJyk3-56" value="COORDINADOR DE NODO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fKhNpdI1kTvp1TnhJyk3-57" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fKhNpdI1kTvp1TnhJyk3-58" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fKhNpdI1kTvp1TnhJyk3-59" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="960" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-03T21:24:17.901Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="grM-YiNbQnO8UOS2cen8" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-03T21:28:00.643Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="XoQxHjRVY5mn3G7kLta4" version="13.7.7" type="github">
   <diagram id="tjoHkjPWpoQrLrlIm6Ti" name="Page-1">
-    <mxGraphModel dx="4291" dy="1093" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="4570" dy="1249" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -382,13 +382,13 @@
         <mxCell id="v9BtXU44K3wzXSx1u6qu-124" value="Construcción del Formulario Levantamiento Catastral" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-410" y="1570" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v9BtXU44K3wzXSx1u6qu-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=42.5;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="v9BtXU44K3wzXSx1u6qu-128" target="v9BtXU44K3wzXSx1u6qu-141">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="v9BtXU44K3wzXSx1u6qu-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="v9BtXU44K3wzXSx1u6qu-128" target="v9BtXU44K3wzXSx1u6qu-144">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="v9BtXU44K3wzXSx1u6qu-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=65;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="v9BtXU44K3wzXSx1u6qu-128" target="v9BtXU44K3wzXSx1u6qu-145">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v9BtXU44K3wzXSx1u6qu-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="v9BtXU44K3wzXSx1u6qu-128" target="v9BtXU44K3wzXSx1u6qu-141">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="v9BtXU44K3wzXSx1u6qu-128" value="Visita Predial&lt;br&gt;(Método Directo)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -403,6 +403,9 @@
         <mxCell id="v9BtXU44K3wzXSx1u6qu-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="v9BtXU44K3wzXSx1u6qu-131" target="v9BtXU44K3wzXSx1u6qu-150">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="v9BtXU44K3wzXSx1u6qu-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v9BtXU44K3wzXSx1u6qu-131" target="v9BtXU44K3wzXSx1u6qu-154">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="v9BtXU44K3wzXSx1u6qu-131" value="Levantamiento de Formulario Catastral" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="1060" width="180" height="60" as="geometry" />
         </mxCell>
@@ -413,7 +416,7 @@
           <mxGeometry x="735" y="2030" width="70" height="90" as="geometry" />
         </mxCell>
         <mxCell id="v9BtXU44K3wzXSx1u6qu-141" value="Base de datos con el componente físico actualizado en la totalidad del área de intervención" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="1810" width="130" height="140" as="geometry" />
+          <mxGeometry x="1650" y="1020" width="130" height="140" as="geometry" />
         </mxCell>
         <mxCell id="v9BtXU44K3wzXSx1u6qu-144" value="Croquis por cada predio actualizado" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1040" y="1990" width="80" height="100" as="geometry" />
@@ -426,6 +429,15 @@
         </mxCell>
         <mxCell id="v9BtXU44K3wzXSx1u6qu-150" value="Documentos y adjuntos asociadas a la tenencia y propiedad capturados" style="shape=card;whiteSpace=wrap;html=1;size=20;" vertex="1" parent="1">
           <mxGeometry x="960" y="880" width="90" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="v9BtXU44K3wzXSx1u6qu-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v9BtXU44K3wzXSx1u6qu-154" target="v9BtXU44K3wzXSx1u6qu-156">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v9BtXU44K3wzXSx1u6qu-154" value="Sincronización de datos capturados en campo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="1060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v9BtXU44K3wzXSx1u6qu-156" value="Validación de datos y construcción de ETL para la migración de datos desde la nube hasta la base de datos física" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1105" y="1260" width="270" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

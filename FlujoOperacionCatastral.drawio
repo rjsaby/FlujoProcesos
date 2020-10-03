@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-03T21:08:56.950Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="RsdnCQSCEDbcDXCQOKfH" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-03T21:12:52.548Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="uQXIYAWjBRZbSehm0jha" version="13.7.7" type="github">
   <diagram id="tjoHkjPWpoQrLrlIm6Ti" name="Page-1">
-    <mxGraphModel dx="3453" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="4570" dy="1249" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -336,6 +336,15 @@
         <mxCell id="v9BtXU44K3wzXSx1u6qu-108" value="NO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-10" y="1020" width="40" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="v9BtXU44K3wzXSx1u6qu-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="v9BtXU44K3wzXSx1u6qu-110" target="v9BtXU44K3wzXSx1u6qu-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v9BtXU44K3wzXSx1u6qu-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="v9BtXU44K3wzXSx1u6qu-110" target="v9BtXU44K3wzXSx1u6qu-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v9BtXU44K3wzXSx1u6qu-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="v9BtXU44K3wzXSx1u6qu-110" target="v9BtXU44K3wzXSx1u6qu-131">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="v9BtXU44K3wzXSx1u6qu-110" value="Realizar la primera jornada de acercamiento social según programación de campo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="1060" width="180" height="60" as="geometry" />
         </mxCell>
@@ -357,8 +366,20 @@
         <mxCell id="v9BtXU44K3wzXSx1u6qu-122" value="Actualización del componente físico por métodos indirectos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-650" y="2069" width="1170" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="v9BtXU44K3wzXSx1u6qu-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v9BtXU44K3wzXSx1u6qu-124" target="v9BtXU44K3wzXSx1u6qu-131">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="v9BtXU44K3wzXSx1u6qu-124" value="Construcción del Formulario Levantamiento Catastral" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-410" y="1570" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v9BtXU44K3wzXSx1u6qu-128" value="Visita Predial&lt;br&gt;(Método Directo)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v9BtXU44K3wzXSx1u6qu-129" value="Informe del reconocimiento social" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="915" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="v9BtXU44K3wzXSx1u6qu-131" value="Levantamiento de Formulario Catastral" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="1120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

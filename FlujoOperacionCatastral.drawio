@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-03T20:27:35.292Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="9BaHY3_whtNdim8Z1_gk" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-03T20:31:15.774Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="S1E920rCy85b51GA4GdN" version="13.7.7" type="github">
   <diagram id="tjoHkjPWpoQrLrlIm6Ti" name="Page-1">
-    <mxGraphModel dx="3900" dy="874" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="3453" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -211,6 +211,9 @@
         <mxCell id="v9BtXU44K3wzXSx1u6qu-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="v9BtXU44K3wzXSx1u6qu-67" target="v9BtXU44K3wzXSx1u6qu-81">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="v9BtXU44K3wzXSx1u6qu-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v9BtXU44K3wzXSx1u6qu-67" target="v9BtXU44K3wzXSx1u6qu-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="v9BtXU44K3wzXSx1u6qu-67" value="Elaboración del plan de trabajo Operación Catastral&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-710" y="1050" width="160" height="80" as="geometry" />
         </mxCell>
@@ -242,11 +245,25 @@
         <mxCell id="v9BtXU44K3wzXSx1u6qu-71" value="Plan de comunicaciones" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=32;" vertex="1" parent="1">
           <mxGeometry x="-820" y="870" width="100" height="117" as="geometry" />
         </mxCell>
+        <mxCell id="v9BtXU44K3wzXSx1u6qu-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v9BtXU44K3wzXSx1u6qu-79" target="v9BtXU44K3wzXSx1u6qu-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="v9BtXU44K3wzXSx1u6qu-79" value="Socialización del plan de trabajo específico a la unidad de intervención con la Alcaldía Municipal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-290" y="1080" width="190" height="60" as="geometry" />
+          <mxGeometry x="-470" y="1060" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v9BtXU44K3wzXSx1u6qu-81" value="Documento de Plan de Trabajo" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-930" y="1040" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="v9BtXU44K3wzXSx1u6qu-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v9BtXU44K3wzXSx1u6qu-86" target="v9BtXU44K3wzXSx1u6qu-67">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-155" y="1160" />
+              <mxPoint x="-630" y="1160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v9BtXU44K3wzXSx1u6qu-86" value="Se &lt;br&gt;aprueba el plan de trabajo" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="1030" width="110" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,28 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2020-10-03T22:51:17.533Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="iDQZ999bys9pqO3WstN_" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-03T22:53:39.248Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="v5OIPiIH0WTFXLHbSupW" version="13.7.7" type="github">
   <diagram id="tjoHkjPWpoQrLrlIm6Ti" name="Page-1">
-    <mxGraphModel dx="4943" dy="3111" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="7549" dy="4567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="v9BtXU44K3wzXSx1u6qu-249" value="" style="shape=card;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="-2269" y="-598" width="7550" height="600" as="geometry" />
+          <mxGeometry x="-2269" y="-598" width="7669" height="600" as="geometry" />
         </mxCell>
         <mxCell id="v9BtXU44K3wzXSx1u6qu-223" value="" style="shape=card;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-2147" y="1" width="7550" height="600" as="geometry" />
         </mxCell>
         <mxCell id="v9BtXU44K3wzXSx1u6qu-112" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2269" y="1799" width="7549" height="600" as="geometry" />
+          <mxGeometry x="-2269" y="1799" width="7669" height="600" as="geometry" />
         </mxCell>
         <mxCell id="v9BtXU44K3wzXSx1u6qu-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2269" y="1200" width="7549" height="600" as="geometry" />
+          <mxGeometry x="-2269" y="1200" width="7669" height="600" as="geometry" />
         </mxCell>
         <mxCell id="v9BtXU44K3wzXSx1u6qu-36" value="" style="shape=card;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="-2270" y="600" width="7550" height="600" as="geometry" />
+          <mxGeometry x="-2270" y="600" width="7670" height="600" as="geometry" />
         </mxCell>
         <mxCell id="v9BtXU44K3wzXSx1u6qu-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="v9BtXU44K3wzXSx1u6qu-1" target="v9BtXU44K3wzXSx1u6qu-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="v9BtXU44K3wzXSx1u6qu-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="v9BtXU44K3wzXSx1u6qu-1" value="INICIO" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-2060" y="1048.5" width="43" height="43" as="geometry" />
         </mxCell>
         <mxCell id="v9BtXU44K3wzXSx1u6qu-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v9BtXU44K3wzXSx1u6qu-2" target="v9BtXU44K3wzXSx1u6qu-45">
@@ -700,8 +700,11 @@
         <mxCell id="v9BtXU44K3wzXSx1u6qu-244" value="Informe de gestión a la Alcaldía con resultados del proceso" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4780" y="820" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="v9BtXU44K3wzXSx1u6qu-270" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v9BtXU44K3wzXSx1u6qu-246" target="v9BtXU44K3wzXSx1u6qu-269">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="v9BtXU44K3wzXSx1u6qu-246" value="Construcción de vistas de analítica" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5000" y="820" width="120" height="60" as="geometry" />
+          <mxGeometry x="5020" y="820" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v9BtXU44K3wzXSx1u6qu-250" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2270" y="-600" width="140" height="600" as="geometry" />
@@ -718,7 +721,7 @@
         <mxCell id="v9BtXU44K3wzXSx1u6qu-255" value="&lt;b&gt;&lt;font style=&quot;font-size: 21px&quot;&gt;SERESCO&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-2219" y="1480" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="v9BtXU44K3wzXSx1u6qu-256" value="&lt;b&gt;&lt;font style=&quot;font-size: 21px&quot;&gt;CUATRO ...&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="v9BtXU44K3wzXSx1u6qu-256" value="&lt;b&gt;&lt;font style=&quot;font-size: 21px&quot;&gt;CUATRO CONCEPTOS&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-2220" y="2080" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="v9BtXU44K3wzXSx1u6qu-259" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v9BtXU44K3wzXSx1u6qu-257" target="v9BtXU44K3wzXSx1u6qu-258">
@@ -741,6 +744,9 @@
         </mxCell>
         <mxCell id="v9BtXU44K3wzXSx1u6qu-263" value="Construcción de las herramientas necesarias para el desarrollo de la operación de actualización catastral" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3690" y="-360" width="230" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="v9BtXU44K3wzXSx1u6qu-269" value="FIN" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="5250" y="820" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

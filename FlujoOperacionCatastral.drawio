@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-03T22:28:52.940Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="SlXrjV_C1irR-zPIzdtH" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-03T22:35:42.154Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="kRXoLMiSRUqDxPhnc56F" version="13.7.7" type="github">
   <diagram id="tjoHkjPWpoQrLrlIm6Ti" name="Page-1">
-    <mxGraphModel dx="3900" dy="874" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="3639" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -579,6 +579,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="v9BtXU44K3wzXSx1u6qu-240" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v9BtXU44K3wzXSx1u6qu-200" target="v9BtXU44K3wzXSx1u6qu-208">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="v9BtXU44K3wzXSx1u6qu-200" value="La información es conforme?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2690" y="840" width="140" height="145" as="geometry" />
         </mxCell>
@@ -663,8 +666,32 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="v9BtXU44K3wzXSx1u6qu-247" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="v9BtXU44K3wzXSx1u6qu-235" target="v9BtXU44K3wzXSx1u6qu-244">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="v9BtXU44K3wzXSx1u6qu-235" value="El proceso de migración se realizó correctamente?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4520" y="270" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="v9BtXU44K3wzXSx1u6qu-238" value="NO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2720" y="979" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="v9BtXU44K3wzXSx1u6qu-241" value="SI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2818" y="890" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="v9BtXU44K3wzXSx1u6qu-242" value="SI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4632" y="310" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="v9BtXU44K3wzXSx1u6qu-243" value="NO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4542" y="395" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="v9BtXU44K3wzXSx1u6qu-248" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="v9BtXU44K3wzXSx1u6qu-244" target="v9BtXU44K3wzXSx1u6qu-246">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v9BtXU44K3wzXSx1u6qu-244" value="Informe de gestión a la Alcaldía con resultados del proceso" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4780" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v9BtXU44K3wzXSx1u6qu-246" value="Construcción de vistas de analítica" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5000" y="820" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

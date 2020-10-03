@@ -1,44 +1,209 @@
-<mxfile host="app.diagrams.net" modified="2020-10-03T19:51:04.439Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="RbuqXSrjLlBycZ9LZsHH" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-03T20:20:12.065Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="rz23rxSCaSumV9VzwdKY" version="13.7.7" type="github">
   <diagram id="tjoHkjPWpoQrLrlIm6Ti" name="Page-1">
-    <mxGraphModel dx="1117" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="4291" dy="1093" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="v9BtXU44K3wzXSx1u6qu-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2269" y="1200" width="4540" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="v9BtXU44K3wzXSx1u6qu-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2270" y="600" width="4540" height="600" as="geometry" />
+        </mxCell>
         <mxCell id="v9BtXU44K3wzXSx1u6qu-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="20" y="970" width="80" height="80" as="geometry" />
+          <mxGeometry x="-2080" y="827" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="v9BtXU44K3wzXSx1u6qu-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v9BtXU44K3wzXSx1u6qu-2" target="v9BtXU44K3wzXSx1u6qu-45">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="v9BtXU44K3wzXSx1u6qu-2" value="Adquisición de insumos, asociados al diagnóstico predial del Municipio bajo operación de actualización catastral" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="990" width="210" height="60" as="geometry" />
+          <mxGeometry x="-1453" y="1040" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v9BtXU44K3wzXSx1u6qu-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="v9BtXU44K3wzXSx1u6qu-3" target="v9BtXU44K3wzXSx1u6qu-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1177" y="810" />
+              <mxPoint x="-1232" y="810" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="v9BtXU44K3wzXSx1u6qu-3" value="Bases Prediales&lt;br&gt;Catastrales Rurales y Urbanas" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="575" y="680" width="90" height="110" as="geometry" />
+          <mxGeometry x="-1222" y="680" width="90" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="v9BtXU44K3wzXSx1u6qu-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="v9BtXU44K3wzXSx1u6qu-4" target="v9BtXU44K3wzXSx1u6qu-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1397" y="810" />
+              <mxPoint x="-1232" y="810" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="v9BtXU44K3wzXSx1u6qu-4" value="ZHF y ZHG" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="355" y="680" width="90" height="110" as="geometry" />
+          <mxGeometry x="-1442" y="680" width="90" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="v9BtXU44K3wzXSx1u6qu-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v9BtXU44K3wzXSx1u6qu-5" target="v9BtXU44K3wzXSx1u6qu-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="v9BtXU44K3wzXSx1u6qu-5" value="Cartografía Básica Escalas Existentes" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="404" y="840" width="90" height="110" as="geometry" />
+          <mxGeometry x="-1393" y="840" width="90" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="v9BtXU44K3wzXSx1u6qu-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="v9BtXU44K3wzXSx1u6qu-6" target="v9BtXU44K3wzXSx1u6qu-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1232" y="970" />
+              <mxPoint x="-1348" y="970" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="v9BtXU44K3wzXSx1u6qu-6" value="Información proveniente del sistema Transaccional" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="520" y="840" width="90" height="110" as="geometry" />
+          <mxGeometry x="-1277" y="840" width="90" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="v9BtXU44K3wzXSx1u6qu-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="v9BtXU44K3wzXSx1u6qu-7" target="v9BtXU44K3wzXSx1u6qu-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1462" y="970" />
+              <mxPoint x="-1348" y="970" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="v9BtXU44K3wzXSx1u6qu-7" value="Planes de Ordenamiento Territorial" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="290" y="840" width="90" height="110" as="geometry" />
+          <mxGeometry x="-1507" y="840" width="90" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="v9BtXU44K3wzXSx1u6qu-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="v9BtXU44K3wzXSx1u6qu-8" target="v9BtXU44K3wzXSx1u6qu-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1580" y="970" />
+              <mxPoint x="-1348" y="970" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="v9BtXU44K3wzXSx1u6qu-8" value="Insumos geográficos que conforman algún tipo de restricción a la propiedad" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="167" y="840" width="100" height="110" as="geometry" />
+          <mxGeometry x="-1630" y="840" width="100" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="v9BtXU44K3wzXSx1u6qu-10" value="Estructura, dominios y datos asociados al sistema transaccional" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="685" y="680" width="90" height="110" as="geometry" />
+        <mxCell id="v9BtXU44K3wzXSx1u6qu-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="v9BtXU44K3wzXSx1u6qu-10" target="v9BtXU44K3wzXSx1u6qu-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1067" y="810" />
+              <mxPoint x="-1232" y="810" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v9BtXU44K3wzXSx1u6qu-10" value="Datos asociados al sistema transaccional según modelo da datos" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="-1112" y="680" width="90" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="v9BtXU44K3wzXSx1u6qu-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v9BtXU44K3wzXSx1u6qu-14" target="v9BtXU44K3wzXSx1u6qu-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1122" y="970" />
+              <mxPoint x="-1348" y="970" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="v9BtXU44K3wzXSx1u6qu-14" value="Imágenes áreas y/o satelitales y/o UAVs" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="630" y="840" width="90" height="110" as="geometry" />
+          <mxGeometry x="-1167" y="840" width="90" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="v9BtXU44K3wzXSx1u6qu-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="v9BtXU44K3wzXSx1u6qu-15" target="v9BtXU44K3wzXSx1u6qu-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1012" y="970" />
+              <mxPoint x="-1348" y="970" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="v9BtXU44K3wzXSx1u6qu-15" value="Imágenes áreas y/o satelitales y/o UAVs" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="740" y="840" width="90" height="110" as="geometry" />
+          <mxGeometry x="-1057" y="840" width="90" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="v9BtXU44K3wzXSx1u6qu-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="v9BtXU44K3wzXSx1u6qu-16" target="v9BtXU44K3wzXSx1u6qu-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1287" y="810" />
+              <mxPoint x="-1232" y="810" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="v9BtXU44K3wzXSx1u6qu-16" value="Registros Catastrales 1 y 2" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="465" y="680" width="90" height="110" as="geometry" />
+          <mxGeometry x="-1332" y="680" width="90" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="v9BtXU44K3wzXSx1u6qu-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="v9BtXU44K3wzXSx1u6qu-30" target="v9BtXU44K3wzXSx1u6qu-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v9BtXU44K3wzXSx1u6qu-30" value="Aprobación de CDP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1920" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v9BtXU44K3wzXSx1u6qu-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="v9BtXU44K3wzXSx1u6qu-31" target="v9BtXU44K3wzXSx1u6qu-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v9BtXU44K3wzXSx1u6qu-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v9BtXU44K3wzXSx1u6qu-31" target="v9BtXU44K3wzXSx1u6qu-62">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1640" y="1150" />
+              <mxPoint x="-1168" y="1150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v9BtXU44K3wzXSx1u6qu-31" value="Identificación, perfeccionamiento y aprobación del área de intervención" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1700" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v9BtXU44K3wzXSx1u6qu-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2270" y="600" width="140" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="v9BtXU44K3wzXSx1u6qu-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v9BtXU44K3wzXSx1u6qu-40" target="v9BtXU44K3wzXSx1u6qu-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v9BtXU44K3wzXSx1u6qu-40" value="Base de datos unificada e integrada teniendo en cuenta las estructuras y dominios asociados al LADM versión 3.0 y el modelo transaccional" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1710" y="1480" width="229" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v9BtXU44K3wzXSx1u6qu-42" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2269" y="1200" width="140" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="v9BtXU44K3wzXSx1u6qu-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v9BtXU44K3wzXSx1u6qu-43" target="v9BtXU44K3wzXSx1u6qu-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v9BtXU44K3wzXSx1u6qu-43" value="Modelo LADM_COL" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="-1692" y="1580" width="88" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="v9BtXU44K3wzXSx1u6qu-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v9BtXU44K3wzXSx1u6qu-44" target="v9BtXU44K3wzXSx1u6qu-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v9BtXU44K3wzXSx1u6qu-44" value="Modelo Transaccional" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="-1572" y="1580" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="v9BtXU44K3wzXSx1u6qu-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="v9BtXU44K3wzXSx1u6qu-45" target="v9BtXU44K3wzXSx1u6qu-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v9BtXU44K3wzXSx1u6qu-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v9BtXU44K3wzXSx1u6qu-45" target="v9BtXU44K3wzXSx1u6qu-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v9BtXU44K3wzXSx1u6qu-45" value="Análisis de información insumo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1408" y="1240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v9BtXU44K3wzXSx1u6qu-47" value="Documento diagnóstico de la información analizada" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1540" y="1220" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="v9BtXU44K3wzXSx1u6qu-53" value="Base de datos operacional por Municipio con la información insumo contenida en el modelo de datos unificado" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-967" y="1480" width="222" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v9BtXU44K3wzXSx1u6qu-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="v9BtXU44K3wzXSx1u6qu-56" target="v9BtXU44K3wzXSx1u6qu-53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-856" y="1270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v9BtXU44K3wzXSx1u6qu-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=55;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="v9BtXU44K3wzXSx1u6qu-56" target="v9BtXU44K3wzXSx1u6qu-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v9BtXU44K3wzXSx1u6qu-56" value="Constricción de ETLs para la migración de datos a la base de datos operacional" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1050" y="1240" width="143" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v9BtXU44K3wzXSx1u6qu-58" value="Entrega de ETLs" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1050" y="1350" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="v9BtXU44K3wzXSx1u6qu-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v9BtXU44K3wzXSx1u6qu-62" target="v9BtXU44K3wzXSx1u6qu-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v9BtXU44K3wzXSx1u6qu-62" value="Selección de la información según unidad de intervención municipal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1237" y="1240" width="137" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

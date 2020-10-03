@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-03T22:08:23.155Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="KmJ3yvdXHpHCmgFkgcDK" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-03T22:10:06.584Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="7YpjCKgyXF9If1MPipeG" version="13.7.7" type="github">
   <diagram id="tjoHkjPWpoQrLrlIm6Ti" name="Page-1">
     <mxGraphModel dx="3900" dy="874" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -582,8 +582,11 @@
         <mxCell id="v9BtXU44K3wzXSx1u6qu-208" value="Analizar la información física actualizada (geográfica, alfanumérica y documental), con la información documental a nivel predial" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2960" y="873.75" width="250" height="77.5" as="geometry" />
         </mxCell>
+        <mxCell id="v9BtXU44K3wzXSx1u6qu-212" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v9BtXU44K3wzXSx1u6qu-210" target="v9BtXU44K3wzXSx1u6qu-208">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="v9BtXU44K3wzXSx1u6qu-210" value="Construcción de la vista de analítica con la información jurídica a ser analizada" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2830" y="1620" width="150" height="80" as="geometry" />
+          <mxGeometry x="2830" y="1620" width="200" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

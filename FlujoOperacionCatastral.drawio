@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-04T14:17:01.406Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="9S_vqXyS8eAw2xFLakaT" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-04T14:32:43.945Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="E_EUU_iS94nDCLzjvgqV" version="13.7.7" type="github">
   <diagram id="tjoHkjPWpoQrLrlIm6Ti" name="Page-1">
-    <mxGraphModel dx="5601" dy="3814" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="none" math="0" shadow="0">
+    <mxGraphModel dx="7809" dy="5048" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -214,6 +214,9 @@
               <mxPoint x="-2080" y="-1110" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="HLIYZpSBOyfruXehFLbR-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="v9BtXU44K3wzXSx1u6qu-53" target="HLIYZpSBOyfruXehFLbR-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="v9BtXU44K3wzXSx1u6qu-53" value="Base de datos operacional por Municipio con la información insumo contenida en el modelo de datos unificado" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-3177" y="-1130" width="222" height="60" as="geometry" />
@@ -778,6 +781,24 @@
               <mxPoint x="-2120" y="-1673" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="HLIYZpSBOyfruXehFLbR-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="HLIYZpSBOyfruXehFLbR-11" target="HLIYZpSBOyfruXehFLbR-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HLIYZpSBOyfruXehFLbR-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="HLIYZpSBOyfruXehFLbR-11" target="v9BtXU44K3wzXSx1u6qu-131">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HLIYZpSBOyfruXehFLbR-11" value="Ejecución del primer diagnóstico jurídico, de la situación de los predios localizados dentro del área de interés, tomando como referencia los insumos suministrados y centralizados" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2680" y="-1375" width="340" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HLIYZpSBOyfruXehFLbR-13" value="Documento Excel con los resultados evidenciados por predio" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2550" y="-1240" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="HLIYZpSBOyfruXehFLbR-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HLIYZpSBOyfruXehFLbR-17" target="v9BtXU44K3wzXSx1u6qu-208">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HLIYZpSBOyfruXehFLbR-17" value="Documento Excel con el primer diagnóstico jurídico realizado" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="1097" y="-1905" width="112" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

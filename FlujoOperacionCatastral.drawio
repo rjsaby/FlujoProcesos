@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2020-10-04T15:05:38.569Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="OxfW5WYFuAQ0gmmo0nBI" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-04T15:21:40.903Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="wypBINPC-Zxu65W30ywB" version="13.7.7" type="github">
   <diagram id="tjoHkjPWpoQrLrlIm6Ti" name="Page-1">
-    <mxGraphModel dx="6245" dy="4174" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="none" math="0" shadow="0">
+    <mxGraphModel dx="20321" dy="12040" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="HLIYZpSBOyfruXehFLbR-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-4509" y="-220" width="7959" height="600" as="geometry" />
+        </mxCell>
         <mxCell id="v9BtXU44K3wzXSx1u6qu-249" value="" style="shape=card;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="-4480" y="-3210" width="7930" height="602" as="geometry" />
         </mxCell>
@@ -220,6 +223,15 @@
         </mxCell>
         <mxCell id="HLIYZpSBOyfruXehFLbR-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=71.5;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="v9BtXU44K3wzXSx1u6qu-53" target="HLIYZpSBOyfruXehFLbR-29">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HLIYZpSBOyfruXehFLbR-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="v9BtXU44K3wzXSx1u6qu-53" target="HLIYZpSBOyfruXehFLbR-47">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-3066" y="-700" />
+              <mxPoint x="-2900" y="-700" />
+              <mxPoint x="-2900" y="40" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="v9BtXU44K3wzXSx1u6qu-53" value="Base de datos operacional por Municipio con la información insumo contenida en el modelo de datos unificado" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-3177" y="-1130" width="222" height="60" as="geometry" />
@@ -555,14 +567,16 @@
         <mxCell id="v9BtXU44K3wzXSx1u6qu-179" value="Se &lt;br&gt;cumple la &lt;br&gt;validación &lt;br&gt;de calidad?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-202" y="-765" width="130" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="v9BtXU44K3wzXSx1u6qu-193" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="v9BtXU44K3wzXSx1u6qu-184" target="v9BtXU44K3wzXSx1u6qu-192" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="v9BtXU44K3wzXSx1u6qu-211" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="1" source="v9BtXU44K3wzXSx1u6qu-184" target="v9BtXU44K3wzXSx1u6qu-210" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="73" y="-950" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HLIYZpSBOyfruXehFLbR-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="v9BtXU44K3wzXSx1u6qu-184" target="HLIYZpSBOyfruXehFLbR-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="1020" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="v9BtXU44K3wzXSx1u6qu-184" value="Base de datos con la información física actualizada (formulario Levantamiento Catastral) y componente físico" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
@@ -633,7 +647,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="v9BtXU44K3wzXSx1u6qu-210" value="Construcción de la vista de analítica con la información jurídica a ser analizada" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="898" y="-990" width="200" height="80" as="geometry" />
+          <mxGeometry x="1053" y="-1000" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="v9BtXU44K3wzXSx1u6qu-221" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="v9BtXU44K3wzXSx1u6qu-213" target="v9BtXU44K3wzXSx1u6qu-216" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -842,35 +856,83 @@
         <mxCell id="HLIYZpSBOyfruXehFLbR-31" value="Informe estadístico con el porcentaje de predios no identificables mediante metodología indirecta de captura" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-3129" y="-450" width="126" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="HLIYZpSBOyfruXehFLbR-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-4480" y="-211" width="7929" height="600" as="geometry" />
-        </mxCell>
         <mxCell id="HLIYZpSBOyfruXehFLbR-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-4479" y="-211" width="140" height="600" as="geometry" />
         </mxCell>
         <mxCell id="HLIYZpSBOyfruXehFLbR-36" value="&lt;b&gt;&lt;font style=&quot;font-size: 21px&quot;&gt;URBANA&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-4429" y="70" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="HLIYZpSBOyfruXehFLbR-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="HLIYZpSBOyfruXehFLbR-37" target="HLIYZpSBOyfruXehFLbR-41">
+        <mxCell id="HLIYZpSBOyfruXehFLbR-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HLIYZpSBOyfruXehFLbR-37" target="HLIYZpSBOyfruXehFLbR-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HLIYZpSBOyfruXehFLbR-37" value="ZHF y ZHG" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="-3890" y="-120" width="90" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="HLIYZpSBOyfruXehFLbR-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="HLIYZpSBOyfruXehFLbR-38" target="HLIYZpSBOyfruXehFLbR-41">
+        <mxCell id="HLIYZpSBOyfruXehFLbR-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HLIYZpSBOyfruXehFLbR-38" target="HLIYZpSBOyfruXehFLbR-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HLIYZpSBOyfruXehFLbR-38" value="Registros Catastrales 1 y 2" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="-3890" y="15" width="90" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="HLIYZpSBOyfruXehFLbR-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="HLIYZpSBOyfruXehFLbR-40" target="HLIYZpSBOyfruXehFLbR-41">
+        <mxCell id="HLIYZpSBOyfruXehFLbR-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HLIYZpSBOyfruXehFLbR-40" target="HLIYZpSBOyfruXehFLbR-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HLIYZpSBOyfruXehFLbR-40" value="Áreas de intervencón" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="-3890" y="150" width="90" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="HLIYZpSBOyfruXehFLbR-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HLIYZpSBOyfruXehFLbR-41" target="HLIYZpSBOyfruXehFLbR-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HLIYZpSBOyfruXehFLbR-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HLIYZpSBOyfruXehFLbR-41" target="HLIYZpSBOyfruXehFLbR-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HLIYZpSBOyfruXehFLbR-41" value="Primer análisis de la situación actual de la unidad de intervención" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-3517" y="40" width="247" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HLIYZpSBOyfruXehFLbR-45" value="Informe técnico detallado" style="shape=card;whiteSpace=wrap;html=1;size=26;" vertex="1" parent="1">
+          <mxGeometry x="-3433.5" y="170" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="HLIYZpSBOyfruXehFLbR-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HLIYZpSBOyfruXehFLbR-47" target="HLIYZpSBOyfruXehFLbR-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HLIYZpSBOyfruXehFLbR-47" value="Incorporación de los datos preliminares al modelo de datos unificado" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2970" y="70" width="195" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HLIYZpSBOyfruXehFLbR-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HLIYZpSBOyfruXehFLbR-51" target="HLIYZpSBOyfruXehFLbR-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HLIYZpSBOyfruXehFLbR-51" value="Desarrollo de los diferentes modelos matemáticos, económicos y valuatorrios conforme a los datos obtenidos tras el levantamiento catastral" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="218" y="70" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HLIYZpSBOyfruXehFLbR-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="HLIYZpSBOyfruXehFLbR-60" target="HLIYZpSBOyfruXehFLbR-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HLIYZpSBOyfruXehFLbR-60" value="Información económica actualizada para la unidad de intervención" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="686" y="70" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HLIYZpSBOyfruXehFLbR-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="HLIYZpSBOyfruXehFLbR-62" target="HLIYZpSBOyfruXehFLbR-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HLIYZpSBOyfruXehFLbR-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=65;entryPerimeter=0;" edge="1" parent="1" source="HLIYZpSBOyfruXehFLbR-62" target="HLIYZpSBOyfruXehFLbR-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HLIYZpSBOyfruXehFLbR-62" value="Construcción de la ETL para incorporar la información económica dentro de la base de datos unificada" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="498" y="-910" width="252" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HLIYZpSBOyfruXehFLbR-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HLIYZpSBOyfruXehFLbR-64" target="HLIYZpSBOyfruXehFLbR-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HLIYZpSBOyfruXehFLbR-64" value="Migración de datos económicos a la base de datos unificada" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="498" y="-1100" width="252" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HLIYZpSBOyfruXehFLbR-66" value="Documentación de la ETL" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="794" y="-940" width="92" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="HLIYZpSBOyfruXehFLbR-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HLIYZpSBOyfruXehFLbR-68" target="v9BtXU44K3wzXSx1u6qu-192">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HLIYZpSBOyfruXehFLbR-68" value="Base de datos con la información física y económica, actualizada" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="549" y="-1310" width="150" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

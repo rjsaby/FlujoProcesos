@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-15T21:08:05.589Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="f31CWha6LJC1JH19ZMpw" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-15T21:09:30.127Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="gVuWubBJb6ZupCVtXKta" version="13.8.0" type="github">
   <diagram id="tjoHkjPWpoQrLrlIm6Ti" name="Page-1">
     <mxGraphModel dx="7051" dy="4570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="none" math="0" shadow="0">
       <root>
@@ -1091,13 +1091,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nM01JFlNaugnaq3uxpxz-59" value="Socialización general del proyecto, dirigido a Alcaldes e Interesados Municipales" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-3770" y="-1695" width="160" height="60" as="geometry" />
+          <mxGeometry x="-3750" y="-1695" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nM01JFlNaugnaq3uxpxz-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nM01JFlNaugnaq3uxpxz-66" target="nM01JFlNaugnaq3uxpxz-59">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nM01JFlNaugnaq3uxpxz-66" value="Plan de Socialización y Participación" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
-          <mxGeometry x="-3740" y="-1864" width="100" height="118" as="geometry" />
+          <mxGeometry x="-3820" y="-1873" width="100" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="nM01JFlNaugnaq3uxpxz-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nM01JFlNaugnaq3uxpxz-68" target="nM01JFlNaugnaq3uxpxz-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nM01JFlNaugnaq3uxpxz-68" value="Plan de comunicaciones" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=32;" vertex="1" parent="1">
+          <mxGeometry x="-3700" y="-1872" width="100" height="117" as="geometry" />
+        </mxCell>
+        <mxCell id="nM01JFlNaugnaq3uxpxz-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nM01JFlNaugnaq3uxpxz-70" target="nM01JFlNaugnaq3uxpxz-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nM01JFlNaugnaq3uxpxz-70" value="Plan Operativo y Logístico" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=32;" vertex="1" parent="1">
+          <mxGeometry x="-3580" y="-1873" width="100" height="117" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

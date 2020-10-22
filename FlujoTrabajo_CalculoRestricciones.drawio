@@ -1,1 +1,184 @@
-<mxfile host="app.diagrams.net" modified="2020-10-22T14:28:04.596Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" version="13.8.1" etag="xtD0o0QNwdWKzeQ8ZFOv" type="github"><diagram id="mRTjyaf2LXyn9Zqg8hKo">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-22T15:05:49.661Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="qaI9efRmoujR5QVBOF1v" version="13.8.1" type="github">
+  <diagram id="mRTjyaf2LXyn9Zqg8hKo" name="Page-1">
+    <mxGraphModel dx="3128" dy="1748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lzU6ElgGPRO--bxlNIlw-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lzU6ElgGPRO--bxlNIlw-1" target="lzU6ElgGPRO--bxlNIlw-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lzU6ElgGPRO--bxlNIlw-1" value="Generación de inventario -Capas de Información FUENTES EXTERNAS-" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="1300" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lzU6ElgGPRO--bxlNIlw-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="lzU6ElgGPRO--bxlNIlw-3" target="lzU6ElgGPRO--bxlNIlw-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lzU6ElgGPRO--bxlNIlw-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lzU6ElgGPRO--bxlNIlw-3" target="lzU6ElgGPRO--bxlNIlw-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lzU6ElgGPRO--bxlNIlw-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lzU6ElgGPRO--bxlNIlw-3" target="lzU6ElgGPRO--bxlNIlw-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lzU6ElgGPRO--bxlNIlw-3" value="Identificación de capas de restricción asociadas a proyectos de actualización catastral" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="1300" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lzU6ElgGPRO--bxlNIlw-5" value="Inventario actualizado con la identificación de capas de restricción" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1227.5" y="1150" width="95" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="lzU6ElgGPRO--bxlNIlw-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="lzU6ElgGPRO--bxlNIlw-7" target="lzU6ElgGPRO--bxlNIlw-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lzU6ElgGPRO--bxlNIlw-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lzU6ElgGPRO--bxlNIlw-7" target="lzU6ElgGPRO--bxlNIlw-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lzU6ElgGPRO--bxlNIlw-7" value="Definición de la analítica espacial por capa identificada como restricción" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="1300" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lzU6ElgGPRO--bxlNIlw-9" value="Inventario actualizado con la descripción detallada de la analítica definida" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1517.5" y="1150" width="95" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="lzU6ElgGPRO--bxlNIlw-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lzU6ElgGPRO--bxlNIlw-11" target="lzU6ElgGPRO--bxlNIlw-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lzU6ElgGPRO--bxlNIlw-11" value="Comparación de resultados con lo estipulado por el modelo LADM_COL como información de restricción" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="1410" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lzU6ElgGPRO--bxlNIlw-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lzU6ElgGPRO--bxlNIlw-13" target="lzU6ElgGPRO--bxlNIlw-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lzU6ElgGPRO--bxlNIlw-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lzU6ElgGPRO--bxlNIlw-13" target="lzU6ElgGPRO--bxlNIlw-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1795" y="1330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lzU6ElgGPRO--bxlNIlw-13" value="¿Existen similitudes entre capas de información?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1730" y="1377.5" width="130" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="lzU6ElgGPRO--bxlNIlw-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="lzU6ElgGPRO--bxlNIlw-14" target="lzU6ElgGPRO--bxlNIlw-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lzU6ElgGPRO--bxlNIlw-14" value="Homologar nombres y dominios para los nombres y atributos de las capas geográficas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1910" y="1405" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="lzU6ElgGPRO--bxlNIlw-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="lzU6ElgGPRO--bxlNIlw-17" target="lzU6ElgGPRO--bxlNIlw-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lzU6ElgGPRO--bxlNIlw-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lzU6ElgGPRO--bxlNIlw-17" target="lzU6ElgGPRO--bxlNIlw-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lzU6ElgGPRO--bxlNIlw-17" value="Automatizar el proceso a escala municipal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2130" y="1300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lzU6ElgGPRO--bxlNIlw-21" value="Documentación del proceso y procedimiento de automatización realizado" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2130" y="1130" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lzU6ElgGPRO--bxlNIlw-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="lzU6ElgGPRO--bxlNIlw-23" target="lzU6ElgGPRO--bxlNIlw-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lzU6ElgGPRO--bxlNIlw-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lzU6ElgGPRO--bxlNIlw-23" target="lzU6ElgGPRO--bxlNIlw-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lzU6ElgGPRO--bxlNIlw-23" value="Automatizar el cálculo de áreas de cruce y porcentajes de cruce por predio según capa de información calculada a escala municipal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2341" y="1300" width="249" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lzU6ElgGPRO--bxlNIlw-25" value="Documento de proceso y procedimiento actualizado" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2408.25" y="1130" width="114.5" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lzU6ElgGPRO--bxlNIlw-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="lzU6ElgGPRO--bxlNIlw-27" target="lzU6ElgGPRO--bxlNIlw-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lzU6ElgGPRO--bxlNIlw-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="lzU6ElgGPRO--bxlNIlw-27" target="lzU6ElgGPRO--bxlNIlw-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lzU6ElgGPRO--bxlNIlw-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="lzU6ElgGPRO--bxlNIlw-27" target="lzU6ElgGPRO--bxlNIlw-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lzU6ElgGPRO--bxlNIlw-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lzU6ElgGPRO--bxlNIlw-27" target="lzU6ElgGPRO--bxlNIlw-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lzU6ElgGPRO--bxlNIlw-27" value="Estructuración y centralización de resultados (escalas prediales y municipal) en base de datos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2670" y="1300" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lzU6ElgGPRO--bxlNIlw-29" value="Diccionario de datos documentado" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2620" y="1130" width="100" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="lzU6ElgGPRO--bxlNIlw-30" value="Metadatos diligenciados" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2730" y="1130" width="100" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="lzU6ElgGPRO--bxlNIlw-31" value="Especificación Técnica documentada por capa de información" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2840" y="1130" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="lzU6ElgGPRO--bxlNIlw-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lzU6ElgGPRO--bxlNIlw-35" target="lzU6ElgGPRO--bxlNIlw-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lzU6ElgGPRO--bxlNIlw-35" value="Ejecución de las herramientas desarrolladas en diferentes equipos de computo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3040" y="1300" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lzU6ElgGPRO--bxlNIlw-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="lzU6ElgGPRO--bxlNIlw-37" target="lzU6ElgGPRO--bxlNIlw-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3370" y="1480" />
+              <mxPoint x="2190" y="1480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lzU6ElgGPRO--bxlNIlw-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lzU6ElgGPRO--bxlNIlw-37" target="lzU6ElgGPRO--bxlNIlw-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lzU6ElgGPRO--bxlNIlw-37" value="¿Se validan resultados?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3310" y="1270" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lzU6ElgGPRO--bxlNIlw-40" value="SI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1850" y="1440" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lzU6ElgGPRO--bxlNIlw-41" value="NO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1790" y="1360" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lzU6ElgGPRO--bxlNIlw-42" value="NO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3330" y="1390" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lzU6ElgGPRO--bxlNIlw-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="lzU6ElgGPRO--bxlNIlw-44" target="lzU6ElgGPRO--bxlNIlw-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lzU6ElgGPRO--bxlNIlw-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lzU6ElgGPRO--bxlNIlw-44" target="lzU6ElgGPRO--bxlNIlw-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lzU6ElgGPRO--bxlNIlw-44" value="Interrelación por PK_PREDIO con la malla de información asociada a la -Analítica Predial-" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3510" y="1300" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lzU6ElgGPRO--bxlNIlw-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lzU6ElgGPRO--bxlNIlw-48" target="lzU6ElgGPRO--bxlNIlw-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lzU6ElgGPRO--bxlNIlw-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lzU6ElgGPRO--bxlNIlw-48" target="lzU6ElgGPRO--bxlNIlw-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lzU6ElgGPRO--bxlNIlw-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lzU6ElgGPRO--bxlNIlw-48" target="lzU6ElgGPRO--bxlNIlw-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lzU6ElgGPRO--bxlNIlw-48" value="Documentación final y entrega de herramienta" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3840" y="1300" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lzU6ElgGPRO--bxlNIlw-49" value="Documento de proceso y procedimiento actualizado" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3892.75" y="1140" width="114.5" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lzU6ElgGPRO--bxlNIlw-51" value="Códigos definidos par a la interrelación realizada" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3590" y="1155" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="lzU6ElgGPRO--bxlNIlw-54" value="CONSTRUCCIÓN DE SERVICIO WPS para la ejecución del proceso vía WEB" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="4170" y="1300" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lzU6ElgGPRO--bxlNIlw-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lzU6ElgGPRO--bxlNIlw-58" target="lzU6ElgGPRO--bxlNIlw-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lzU6ElgGPRO--bxlNIlw-58" value="INICIO" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="660" y="1290" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lzU6ElgGPRO--bxlNIlw-60" value="FIN" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="3910" y="1423" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

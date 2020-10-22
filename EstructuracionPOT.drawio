@@ -1,1 +1,141 @@
-<mxfile host="app.diagrams.net" modified="2020-10-22T18:55:54.730Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" version="13.8.1" etag="UO7zs1Ciye2l5WySM1I_" type="github"><diagram id="qNnnb95ih-545JkITB5z">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-22T19:31:25.573Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="8vlRYcGnmtSKPKQaORQO" version="13.8.1" type="github">
+  <diagram id="qNnnb95ih-545JkITB5z" name="Page-1">
+    <mxGraphModel dx="2234" dy="1086" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LUfxZjxux-JE6luZfcWN-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="LUfxZjxux-JE6luZfcWN-1" target="LUfxZjxux-JE6luZfcWN-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LUfxZjxux-JE6luZfcWN-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LUfxZjxux-JE6luZfcWN-1" target="LUfxZjxux-JE6luZfcWN-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LUfxZjxux-JE6luZfcWN-1" value="Centralización insumos POT por Municipio" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LUfxZjxux-JE6luZfcWN-2" value="Actualización Inventario Insumos SIG Valor+" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="200" width="90" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="LUfxZjxux-JE6luZfcWN-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="LUfxZjxux-JE6luZfcWN-4" target="LUfxZjxux-JE6luZfcWN-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LUfxZjxux-JE6luZfcWN-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LUfxZjxux-JE6luZfcWN-4" target="LUfxZjxux-JE6luZfcWN-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LUfxZjxux-JE6luZfcWN-4" value="Construcción de inventario con la información suministrada" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="350" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LUfxZjxux-JE6luZfcWN-6" value="Inventario Información POT\PBOT\EOT" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="200" width="100" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="LUfxZjxux-JE6luZfcWN-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LUfxZjxux-JE6luZfcWN-8" target="LUfxZjxux-JE6luZfcWN-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LUfxZjxux-JE6luZfcWN-8" value="INICIO" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="80" y="355" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LUfxZjxux-JE6luZfcWN-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="LUfxZjxux-JE6luZfcWN-10" target="LUfxZjxux-JE6luZfcWN-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LUfxZjxux-JE6luZfcWN-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LUfxZjxux-JE6luZfcWN-10" target="LUfxZjxux-JE6luZfcWN-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LUfxZjxux-JE6luZfcWN-10" value="Priorización de capas a georreferenciar y estructurar en base de datos SIG_VALORMAS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="350" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LUfxZjxux-JE6luZfcWN-12" value="Inventario Actualizado" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="210" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="LUfxZjxux-JE6luZfcWN-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="LUfxZjxux-JE6luZfcWN-14" target="LUfxZjxux-JE6luZfcWN-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LUfxZjxux-JE6luZfcWN-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="LUfxZjxux-JE6luZfcWN-14" target="LUfxZjxux-JE6luZfcWN-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LUfxZjxux-JE6luZfcWN-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="LUfxZjxux-JE6luZfcWN-14" target="LUfxZjxux-JE6luZfcWN-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LUfxZjxux-JE6luZfcWN-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LUfxZjxux-JE6luZfcWN-14" target="LUfxZjxux-JE6luZfcWN-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LUfxZjxux-JE6luZfcWN-14" value="Georreferenciación y estructuración, según priorización, en base de datos SIG_VALORMAS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="350" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LUfxZjxux-JE6luZfcWN-16" value="Metadatos diligenciados por capa de información georreferenciada y estructurada" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="190" width="110" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="LUfxZjxux-JE6luZfcWN-17" value="Diccionario de Datos por capa georreferenciada y estructurada" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="190" width="110" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="LUfxZjxux-JE6luZfcWN-18" value="Especificación Técnica por capa georreferenciada y estructurada" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="190" width="110" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="LUfxZjxux-JE6luZfcWN-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="LUfxZjxux-JE6luZfcWN-23" target="LUfxZjxux-JE6luZfcWN-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LUfxZjxux-JE6luZfcWN-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LUfxZjxux-JE6luZfcWN-23" target="LUfxZjxux-JE6luZfcWN-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LUfxZjxux-JE6luZfcWN-23" value="Ejecución de procesos de validación de calidad sobre la data\estructura\dominios georreferenciados y estructurados" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="335" width="300" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="LUfxZjxux-JE6luZfcWN-26" value="Lista de chequeo con resultados obtenidos tras el proceso de validación de calidad" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="170" width="120" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="LUfxZjxux-JE6luZfcWN-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LUfxZjxux-JE6luZfcWN-29" target="LUfxZjxux-JE6luZfcWN-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LUfxZjxux-JE6luZfcWN-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LUfxZjxux-JE6luZfcWN-29" target="LUfxZjxux-JE6luZfcWN-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LUfxZjxux-JE6luZfcWN-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LUfxZjxux-JE6luZfcWN-29" target="LUfxZjxux-JE6luZfcWN-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1530" y="670" />
+              <mxPoint x="1715" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LUfxZjxux-JE6luZfcWN-29" value="¿Se aprueba el control de calidad?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1462.5" y="500" width="135" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="LUfxZjxux-JE6luZfcWN-33" value="NO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="540" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LUfxZjxux-JE6luZfcWN-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LUfxZjxux-JE6luZfcWN-34" target="LUfxZjxux-JE6luZfcWN-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LUfxZjxux-JE6luZfcWN-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="LUfxZjxux-JE6luZfcWN-34" target="LUfxZjxux-JE6luZfcWN-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LUfxZjxux-JE6luZfcWN-34" value="Alineación con proceso de automatización en el cálculo de restricciones, proyecto de actualización catastral" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="700" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LUfxZjxux-JE6luZfcWN-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LUfxZjxux-JE6luZfcWN-36" target="LUfxZjxux-JE6luZfcWN-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LUfxZjxux-JE6luZfcWN-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=80;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="LUfxZjxux-JE6luZfcWN-36" target="LUfxZjxux-JE6luZfcWN-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LUfxZjxux-JE6luZfcWN-36" value="Alineación con analítica predial, proyecto de actualización catastral" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="700" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LUfxZjxux-JE6luZfcWN-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LUfxZjxux-JE6luZfcWN-38" target="LUfxZjxux-JE6luZfcWN-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LUfxZjxux-JE6luZfcWN-38" value="Documentación -Mejores prácticas y recomendaciones para la estructuración de información enmarcada en los POT\EOT\PBOT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="820" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LUfxZjxux-JE6luZfcWN-41" value="Alineación Flujo Proceso&lt;br&gt;Automatización Restricciones" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="685" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="LUfxZjxux-JE6luZfcWN-43" value="Documentación de desarrollos, consultas y demás herramientas construidas para la ejecución de los enlaces" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1910" y="650" width="140" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="LUfxZjxux-JE6luZfcWN-47" value="FIN" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="940" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

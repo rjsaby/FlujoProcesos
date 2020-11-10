@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-10T23:01:29.040Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="y0Fgism2XZ5iPqke4N0w" version="13.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-10T23:03:40.118Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="xDTB4a63h1AenQv95cmW" version="13.9.3" type="github">
   <diagram id="-2hV0M8G9xLFR0SR-_-U" name="Page-1">
     <mxGraphModel dx="1673" dy="896" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -59,11 +59,20 @@
         <mxCell id="RrE3iOBBxHXa1KL4GIw2-12" value="Ingreso dependiendo de uno de los roles parametrizados dentro de la plataforma" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2" vertex="1" parent="1">
           <mxGeometry x="342" y="283" width="261" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="RrE3iOBBxHXa1KL4GIw2-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1395" y="582" width="120" height="60" as="geometry" />
+        <mxCell id="RrE3iOBBxHXa1KL4GIw2-16" value="Solicitud oficial a SERESCO con los datos detallados del proceso de edición masivo que debe realizarse" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1175" y="313" width="202" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RrE3iOBBxHXa1KL4GIw2-17" value="¿Los procesos de edición deben realizarse masivamente?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="984" y="276" width="140" height="134" as="geometry" />
+        <mxCell id="RrE3iOBBxHXa1KL4GIw2-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="RrE3iOBBxHXa1KL4GIw2-17" target="RrE3iOBBxHXa1KL4GIw2-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RrE3iOBBxHXa1KL4GIw2-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="RrE3iOBBxHXa1KL4GIw2-17" target="RrE3iOBBxHXa1KL4GIw2-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RrE3iOBBxHXa1KL4GIw2-17" value="¿Los procesos de &lt;br&gt;edición deben realizarse masivamente?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="945" y="276" width="140" height="134" as="geometry" />
+        </mxCell>
+        <mxCell id="RrE3iOBBxHXa1KL4GIw2-21" value="Ejecución de procesos de edición de registros uno a uno (por formulario)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="1178" y="172" width="196" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

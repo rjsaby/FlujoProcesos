@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-10T22:11:42.180Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="qBxI5eZStFooERHNi6Wx" version="13.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-10T22:27:41.643Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="wrmWt7d7xNB7MVQ_5b-0" version="13.9.3" type="github">
   <diagram id="-2hV0M8G9xLFR0SR-_-U" name="Page-1">
-    <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="1931" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,10 +8,19 @@
           <mxGeometry x="80" y="316" width="195" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RrE3iOBBxHXa1KL4GIw2-2" value="INGRESO PLATAFORMA POR ROL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="344" y="314" width="193" height="60" as="geometry" />
+          <mxGeometry x="468" y="-35" width="193" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RrE3iOBBxHXa1KL4GIw2-3" value="EJECUCIÓN CONTROL DE CALIDAD SOBRE LOS DATOS FORMULARIO LEVANTAMIENTO CATASTRAL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="596" y="316" width="260" height="60" as="geometry" />
+          <mxGeometry x="342" y="313" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RrE3iOBBxHXa1KL4GIw2-4" value="¿Los datos cumplen la validación de calidad a nivel jurídico?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="683" y="132" width="144" height="138" as="geometry" />
+        </mxCell>
+        <mxCell id="RrE3iOBBxHXa1KL4GIw2-5" value="¿Los datos cumplen &lt;br&gt;la validación de calidad a nivel físico (CALIFICACIÓN&lt;br&gt;CONVENCIONAL\NO&lt;br&gt;CONVENCIONAL?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="679" y="376" width="152" height="149" as="geometry" />
+        </mxCell>
+        <mxCell id="RrE3iOBBxHXa1KL4GIw2-8" value="&lt;b&gt;PARÁMETROS GENERALES ASEGURAMIENTO CALIDAD NIVEL JURÍDICO:&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;a. Corroboración y MODIFICACIÓN\ACTUALIZACIÓN\NUEVO REGISTRO teniendo en cuenta la comparación de datos por predio con respecto a la información del VUR.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;b. Validación de datos con respecto a los soportes fotográficos capturados durante el diligenciamiento del Formulario.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;c. Validación de la calidad (resolución) del registro fotográfico capturado durante el levantamiento del formulario&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;d. Verificación de datos a nivel de forma (ortografía, capitalización, entre otros).&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="587" y="532" width="340" height="242" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

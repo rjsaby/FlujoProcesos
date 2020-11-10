@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-16T18:51:05.798Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="c7Xc6t0yhCt-8AB2Eli_" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-10T16:11:18.122Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="E0b9gmlOIRQ5gw7C7L6N" version="13.8.9" type="github">
   <diagram id="tjoHkjPWpoQrLrlIm6Ti" name="Page-1">
-    <mxGraphModel dx="10369" dy="6348" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="none" math="0" shadow="0">
+    <mxGraphModel dx="7051" dy="4570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -418,7 +418,7 @@
         <mxCell id="v9BtXU44K3wzXSx1u6qu-119" value="Imágenes áreas y/o satelitales y/o UAVs" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="-2814" y="-566" width="90" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="v9BtXU44K3wzXSx1u6qu-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="v9BtXU44K3wzXSx1u6qu-128" edge="1">
+        <mxCell id="v9BtXU44K3wzXSx1u6qu-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="v9BtXU44K3wzXSx1u6qu-128" edge="1" source="v9BtXU44K3wzXSx1u6qu-122">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-293" y="-640" as="targetPoint" />
             <Array as="points">
@@ -825,7 +825,7 @@
         <mxCell id="HLIYZpSBOyfruXehFLbR-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" source="HLIYZpSBOyfruXehFLbR-11" target="HLIYZpSBOyfruXehFLbR-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HLIYZpSBOyfruXehFLbR-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="v9BtXU44K3wzXSx1u6qu-131" edge="1">
+        <mxCell id="HLIYZpSBOyfruXehFLbR-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="v9BtXU44K3wzXSx1u6qu-131" edge="1" source="HLIYZpSBOyfruXehFLbR-11">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1177" y="-1335" as="sourcePoint" />
           </mxGeometry>
@@ -1037,9 +1037,13 @@
         <mxCell id="nM01JFlNaugnaq3uxpxz-27" value="Generación de Publicidad y Estrategias de comunicación enfocadas en el usuario" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-653" y="680" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nM01JFlNaugnaq3uxpxz-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="nM01JFlNaugnaq3uxpxz-36" edge="1">
+        <mxCell id="nM01JFlNaugnaq3uxpxz-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="nM01JFlNaugnaq3uxpxz-36" edge="1" source="nM01JFlNaugnaq3uxpxz-32">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1213" y="620" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-1457" y="620" />
+              <mxPoint x="-1457" y="695" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="nM01JFlNaugnaq3uxpxz-32" value="Desarrollo, pruebas y puesta en producción de las herramientas y aplicaciones tecnológicas necesarias" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -1051,10 +1055,10 @@
         <mxCell id="nM01JFlNaugnaq3uxpxz-36" value="Socialización de resultados con Alcaldías Municipales" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1047" y="680" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nM01JFlNaugnaq3uxpxz-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="nM01JFlNaugnaq3uxpxz-39" target="nM01JFlNaugnaq3uxpxz-40" edge="1">
+        <mxCell id="nM01JFlNaugnaq3uxpxz-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="nM01JFlNaugnaq3uxpxz-47" target="nM01JFlNaugnaq3uxpxz-40" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-1424" y="570" />
+              <mxPoint x="-773" y="570" />
               <mxPoint x="-2229" y="570" />
             </Array>
           </mxGeometry>

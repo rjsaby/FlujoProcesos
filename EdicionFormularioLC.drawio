@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-10T23:13:35.906Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="H_MaV1efPzrFvNPtto2v" version="13.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-10T23:16:14.965Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="-430FECB23PLZcLpFJUh" version="13.9.3" type="github">
   <diagram id="-2hV0M8G9xLFR0SR-_-U" name="Page-1">
-    <mxGraphModel dx="2500" dy="896" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="4890" dy="2177" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -87,7 +87,7 @@
         <mxCell id="RrE3iOBBxHXa1KL4GIw2-10" value="¿Los datos cumplen con la posición espacial?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="687" y="285" width="118" height="116" as="geometry" />
         </mxCell>
-        <mxCell id="RrE3iOBBxHXa1KL4GIw2-11" value="&lt;b&gt;PARÁMETROS GENERALES ASEGURAMIENTO CALIDAD NIVEL POSICIONAL&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;a. Coordenada geográfica calculada por formulario&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;b. Coordenada posicionada como mínimo dentro de la Unidad de Intervención&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="RrE3iOBBxHXa1KL4GIw2-11" value="&lt;b&gt;PARÁMETROS GENERALES ASEGURAMIENTO CALIDAD NIVEL POSICIONAL&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;a. Coordenada geográfica calculada por formulario&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;b. Coordenada posicionada como mínimo dentro de la Unidad de Intervención&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;c. Se corrobora el correcto diligenciamiento del Identificador del formulario&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="578.5" y="624" width="340" height="86" as="geometry" />
         </mxCell>
         <mxCell id="RrE3iOBBxHXa1KL4GIw2-12" value="Ingreso dependiendo de uno de los roles parametrizados dentro de la plataforma" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2" vertex="1" parent="1">
@@ -149,6 +149,9 @@
         <mxCell id="RrE3iOBBxHXa1KL4GIw2-37" value="EL FORMULARIO SE PARAMETRIZA COMO -EN REVISIÓN- (O SIMILAR)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="93" y="313" width="195" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="RrE3iOBBxHXa1KL4GIw2-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=11;" edge="1" parent="1" source="RrE3iOBBxHXa1KL4GIw2-40" target="RrE3iOBBxHXa1KL4GIw2-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RrE3iOBBxHXa1KL4GIw2-40" value="SE PARAMETRIZA EL FORMULARIO COMO -APROBADO- (O SIMILAR)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="1700" y="242" width="205" height="60" as="geometry" />
         </mxCell>
@@ -172,6 +175,15 @@
         </mxCell>
         <mxCell id="RrE3iOBBxHXa1KL4GIw2-53" value="FINALIZA LEVANTAMIENTO&amp;nbsp;&lt;br&gt;FORMULARIO" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="-324" y="294" width="98" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="RrE3iOBBxHXa1KL4GIw2-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="RrE3iOBBxHXa1KL4GIw2-56" target="RrE3iOBBxHXa1KL4GIw2-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RrE3iOBBxHXa1KL4GIw2-56" value="SE INCORPORAN LOS DATOS PARA LAS ANALÍTICAS Y CRUCES CON OTROS COMPONENTES" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="2006" y="207.75" width="124" height="128.5" as="geometry" />
+        </mxCell>
+        <mxCell id="RrE3iOBBxHXa1KL4GIw2-58" value="FIN PROCESO" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="2255" y="232" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

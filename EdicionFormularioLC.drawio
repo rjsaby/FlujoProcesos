@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-10T23:16:14.965Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="-430FECB23PLZcLpFJUh" version="13.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-10T23:18:23.282Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="7ayewNxUKcErsJTDxnQ7" version="13.9.3" type="github">
   <diagram id="-2hV0M8G9xLFR0SR-_-U" name="Page-1">
     <mxGraphModel dx="4890" dy="2177" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -111,7 +111,7 @@
         <mxCell id="RrE3iOBBxHXa1KL4GIw2-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;" edge="1" parent="1" source="RrE3iOBBxHXa1KL4GIw2-21" target="RrE3iOBBxHXa1KL4GIw2-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RrE3iOBBxHXa1KL4GIw2-21" value="Ejecución de procesos de edición de registros uno a uno (por formulario)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="RrE3iOBBxHXa1KL4GIw2-21" value="Ejecución de procesos de edición de registros uno a uno (por formulario) dentro de la plataforma" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="1178" y="172" width="196" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RrE3iOBBxHXa1KL4GIw2-24" value="SI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">

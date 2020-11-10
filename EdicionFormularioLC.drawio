@@ -1,1 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2020-11-10T22:04:59.921Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" version="13.9.3" etag="slELV_umUmDv4qdizxEi" type="github"><diagram id="-2hV0M8G9xLFR0SR-_-U">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-10T22:11:42.180Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="qBxI5eZStFooERHNi6Wx" version="13.9.3" type="github">
+  <diagram id="-2hV0M8G9xLFR0SR-_-U" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RrE3iOBBxHXa1KL4GIw2-1" value="SINCRONIZACIÓN DEL FORMULARIO LEVANTAMIENTO CATASTRAL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="316" width="195" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RrE3iOBBxHXa1KL4GIw2-2" value="INGRESO PLATAFORMA POR ROL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="344" y="314" width="193" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RrE3iOBBxHXa1KL4GIw2-3" value="EJECUCIÓN CONTROL DE CALIDAD SOBRE LOS DATOS FORMULARIO LEVANTAMIENTO CATASTRAL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="596" y="316" width="260" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

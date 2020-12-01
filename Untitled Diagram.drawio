@@ -1,1 +1,143 @@
-<mxfile host="app.diagrams.net" modified="2020-12-01T14:54:32.823Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" version="13.10.3" etag="cd9CIK1AA_PP1PbIJsgK" type="github"><diagram id="l_uMdV8QQdp9Tbhpxj8w">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-01T15:21:53.867Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="mtEtSr10sBQKAQE6BzqA" version="13.10.3" type="github">
+  <diagram id="l_uMdV8QQdp9Tbhpxj8w" name="Page-1">
+    <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="37MwR3U5DzsrRVukSm5t-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="37MwR3U5DzsrRVukSm5t-54" target="37MwR3U5DzsrRVukSm5t-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="37MwR3U5DzsrRVukSm5t-54" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-25" y="10" width="230" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="37MwR3U5DzsrRVukSm5t-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="37MwR3U5DzsrRVukSm5t-1" target="37MwR3U5DzsrRVukSm5t-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="37MwR3U5DzsrRVukSm5t-1" value="INICIO" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="360" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="37MwR3U5DzsrRVukSm5t-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="37MwR3U5DzsrRVukSm5t-2" target="37MwR3U5DzsrRVukSm5t-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="37MwR3U5DzsrRVukSm5t-2" value="Identificación UNIDAD_ESPACIAL (UE) por Manzana" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="200" y="360" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="37MwR3U5DzsrRVukSm5t-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="37MwR3U5DzsrRVukSm5t-4" target="37MwR3U5DzsrRVukSm5t-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="37MwR3U5DzsrRVukSm5t-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="37MwR3U5DzsrRVukSm5t-4" target="37MwR3U5DzsrRVukSm5t-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="37MwR3U5DzsrRVukSm5t-4" value="Verificación de posición y forma con respecto a:" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="390" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="37MwR3U5DzsrRVukSm5t-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="37MwR3U5DzsrRVukSm5t-6" target="37MwR3U5DzsrRVukSm5t-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="37MwR3U5DzsrRVukSm5t-6" value="TERRENOS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="570" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="37MwR3U5DzsrRVukSm5t-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="37MwR3U5DzsrRVukSm5t-7" target="37MwR3U5DzsrRVukSm5t-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="37MwR3U5DzsrRVukSm5t-7" value="CONSTRUCCIONES" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="570" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="37MwR3U5DzsrRVukSm5t-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="37MwR3U5DzsrRVukSm5t-12" target="37MwR3U5DzsrRVukSm5t-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="37MwR3U5DzsrRVukSm5t-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="37MwR3U5DzsrRVukSm5t-12" target="37MwR3U5DzsrRVukSm5t-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="827" y="160" />
+              <mxPoint x="1250" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="37MwR3U5DzsrRVukSm5t-12" value="¿Se mantiene&lt;br&gt;en forma y&lt;br&gt;posición el tipo UE&lt;br&gt;con respecto a la ortofoto?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="760" y="225" width="133" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="37MwR3U5DzsrRVukSm5t-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="37MwR3U5DzsrRVukSm5t-13" target="37MwR3U5DzsrRVukSm5t-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="37MwR3U5DzsrRVukSm5t-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="37MwR3U5DzsrRVukSm5t-13" target="37MwR3U5DzsrRVukSm5t-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="822" y="640" />
+              <mxPoint x="1250" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="37MwR3U5DzsrRVukSm5t-13" value="&lt;span&gt;¿Se mantiene&lt;/span&gt;&lt;br&gt;&lt;span&gt;en forma y&lt;/span&gt;&lt;br&gt;&lt;span&gt;posición el tipo UE&lt;/span&gt;&lt;br&gt;&lt;span&gt;con respecto a la ortofoto?&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="750" y="435" width="143" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="37MwR3U5DzsrRVukSm5t-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="37MwR3U5DzsrRVukSm5t-18" target="37MwR3U5DzsrRVukSm5t-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="37MwR3U5DzsrRVukSm5t-18" value="Se registran los atributos de acuerdo al LADM" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="37MwR3U5DzsrRVukSm5t-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="37MwR3U5DzsrRVukSm5t-22" target="37MwR3U5DzsrRVukSm5t-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="37MwR3U5DzsrRVukSm5t-22" value="&lt;span&gt;Se registran los atributos de acuerdo al LADM&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="37MwR3U5DzsrRVukSm5t-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="37MwR3U5DzsrRVukSm5t-24" target="37MwR3U5DzsrRVukSm5t-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="37MwR3U5DzsrRVukSm5t-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="37MwR3U5DzsrRVukSm5t-24" target="37MwR3U5DzsrRVukSm5t-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="37MwR3U5DzsrRVukSm5t-24" value="Se georreferencia y estructura la nueva geometría en la capa formato LADM" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="950" y="375" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="37MwR3U5DzsrRVukSm5t-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="37MwR3U5DzsrRVukSm5t-31" target="37MwR3U5DzsrRVukSm5t-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="37MwR3U5DzsrRVukSm5t-31" value="Se cargan los resultados de ambas UE a QGIS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="37MwR3U5DzsrRVukSm5t-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="37MwR3U5DzsrRVukSm5t-35" target="37MwR3U5DzsrRVukSm5t-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="37MwR3U5DzsrRVukSm5t-35" value="Preparación y carga de insumos" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="30" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="37MwR3U5DzsrRVukSm5t-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="37MwR3U5DzsrRVukSm5t-38" target="37MwR3U5DzsrRVukSm5t-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="37MwR3U5DzsrRVukSm5t-38" value="Se registra información la motor de bases de datos LADM" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="37MwR3U5DzsrRVukSm5t-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="37MwR3U5DzsrRVukSm5t-40" target="37MwR3U5DzsrRVukSm5t-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="37MwR3U5DzsrRVukSm5t-40" value="Se ejecutan validadores de calidad" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="37MwR3U5DzsrRVukSm5t-42" value="FIN" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="362.5" width="55" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="37MwR3U5DzsrRVukSm5t-44" value="POR DEFINIR" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="485" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="37MwR3U5DzsrRVukSm5t-45" value="MANZANA" style="shape=card;whiteSpace=wrap;html=1;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry y="125" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="37MwR3U5DzsrRVukSm5t-46" value="&lt;font style=&quot;font-size: 8px&quot;&gt;CONSTRUCCIONES&lt;/font&gt;" style="shape=card;whiteSpace=wrap;html=1;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="100" y="125" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="37MwR3U5DzsrRVukSm5t-47" value="&lt;font style=&quot;font-size: 8px&quot;&gt;TERRENOS&lt;/font&gt;" style="shape=card;whiteSpace=wrap;html=1;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry y="230" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="37MwR3U5DzsrRVukSm5t-48" value="&lt;font style=&quot;font-size: 8px&quot;&gt;ORTOFOTO&lt;/font&gt;" style="shape=card;whiteSpace=wrap;html=1;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="100" y="230" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="37MwR3U5DzsrRVukSm5t-49" value="&lt;span style=&quot;font-size: 8px&quot;&gt;ESTRUCUTURA ESPACIAL LADM PARA LAS UE&lt;/span&gt;" style="shape=card;whiteSpace=wrap;html=1;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="50" y="25" width="90" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

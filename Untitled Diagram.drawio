@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-01T15:21:53.867Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="mtEtSr10sBQKAQE6BzqA" version="13.10.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-01T15:52:09.958Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="aMEKGJBVJHoKMONpmAbe" version="13.10.3" type="github">
   <diagram id="l_uMdV8QQdp9Tbhpxj8w" name="Page-1">
-    <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="37MwR3U5DzsrRVukSm5t-54" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="-25" y="10" width="230" height="320" as="geometry" />
+          <mxGeometry x="-90" y="110" width="337.5" height="220" as="geometry" />
         </mxCell>
         <mxCell id="37MwR3U5DzsrRVukSm5t-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="37MwR3U5DzsrRVukSm5t-1" target="37MwR3U5DzsrRVukSm5t-35">
           <mxGeometry relative="1" as="geometry" />
@@ -89,7 +89,10 @@
         <mxCell id="37MwR3U5DzsrRVukSm5t-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="37MwR3U5DzsrRVukSm5t-24" target="37MwR3U5DzsrRVukSm5t-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="37MwR3U5DzsrRVukSm5t-24" value="Se georreferencia y estructura la nueva geometría en la capa formato LADM" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="37MwR3U5DzsrRVukSm5t-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="37MwR3U5DzsrRVukSm5t-24" target="37MwR3U5DzsrRVukSm5t-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="37MwR3U5DzsrRVukSm5t-24" value="Se documenta opción de mejora evidenciada" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="950" y="375" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="37MwR3U5DzsrRVukSm5t-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="37MwR3U5DzsrRVukSm5t-31" target="37MwR3U5DzsrRVukSm5t-38">
@@ -102,7 +105,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="37MwR3U5DzsrRVukSm5t-35" value="Preparación y carga de insumos" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="30" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="18.75" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="37MwR3U5DzsrRVukSm5t-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="37MwR3U5DzsrRVukSm5t-38" target="37MwR3U5DzsrRVukSm5t-40">
           <mxGeometry relative="1" as="geometry" />
@@ -122,20 +125,29 @@
         <mxCell id="37MwR3U5DzsrRVukSm5t-44" value="POR DEFINIR" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-90" y="485" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="37MwR3U5DzsrRVukSm5t-45" value="MANZANA" style="shape=card;whiteSpace=wrap;html=1;fillColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry y="125" width="90" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="37MwR3U5DzsrRVukSm5t-46" value="&lt;font style=&quot;font-size: 8px&quot;&gt;CONSTRUCCIONES&lt;/font&gt;" style="shape=card;whiteSpace=wrap;html=1;fillColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="37MwR3U5DzsrRVukSm5t-46" value="&lt;font style=&quot;font-size: 8px&quot;&gt;CONSTRUCCIONES&lt;/font&gt;" style="shape=card;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="100" y="125" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="37MwR3U5DzsrRVukSm5t-47" value="&lt;font style=&quot;font-size: 8px&quot;&gt;TERRENOS&lt;/font&gt;" style="shape=card;whiteSpace=wrap;html=1;fillColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="37MwR3U5DzsrRVukSm5t-47" value="&lt;font style=&quot;font-size: 8px&quot;&gt;TERRENOS&lt;/font&gt;" style="shape=card;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry y="230" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="37MwR3U5DzsrRVukSm5t-48" value="&lt;font style=&quot;font-size: 8px&quot;&gt;ORTOFOTO&lt;/font&gt;" style="shape=card;whiteSpace=wrap;html=1;fillColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="37MwR3U5DzsrRVukSm5t-48" value="&lt;font style=&quot;font-size: 8px&quot;&gt;ORTOFOTO&lt;/font&gt;" style="shape=card;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="100" y="230" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="37MwR3U5DzsrRVukSm5t-49" value="&lt;span style=&quot;font-size: 8px&quot;&gt;ESTRUCUTURA ESPACIAL LADM PARA LAS UE&lt;/span&gt;" style="shape=card;whiteSpace=wrap;html=1;fillColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="50" y="25" width="90" height="90" as="geometry" />
+        <mxCell id="37MwR3U5DzsrRVukSm5t-49" value="&lt;span style=&quot;font-size: 8px&quot;&gt;ESTRUCUTURA ESPACIAL LADM PARA LAS UE&lt;/span&gt;" style="shape=card;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry y="125" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="37MwR3U5DzsrRVukSm5t-57" value="COMPONENTE FÍSICO MÉTODO INDIRECTO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-75" y="50" width="330" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="37MwR3U5DzsrRVukSm5t-59" value="ANZA" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="180" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="37MwR3U5DzsrRVukSm5t-61" value="SIG_VALORMAS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-75" y="80" width="330" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="37MwR3U5DzsrRVukSm5t-62" value="Informe Técnico de Validación" style="shape=card;whiteSpace=wrap;html=1;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="995" y="240" width="80" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

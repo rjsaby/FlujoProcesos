@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-01T15:53:35.501Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="OSTKoHGwJayGT_OZPQEU" version="13.10.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-01T15:54:45.653Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="W_plkapl1pPzbsw-j1LN" version="13.10.3" type="github">
   <diagram id="l_uMdV8QQdp9Tbhpxj8w" name="Page-1">
     <mxGraphModel dx="2249" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -140,7 +140,7 @@
         <mxCell id="37MwR3U5DzsrRVukSm5t-57" value="COMPONENTE FÍSICO MÉTODO INDIRECTO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-75" y="50" width="330" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="37MwR3U5DzsrRVukSm5t-59" value="ANZA" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="37MwR3U5DzsrRVukSm5t-59" value="&lt;font style=&quot;font-size: 9px&quot;&gt;OPERACIÓN&lt;br&gt;MUNICIPAL&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-80" y="180" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="37MwR3U5DzsrRVukSm5t-61" value="SIG_VALORMAS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
